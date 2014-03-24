@@ -1,0 +1,830 @@
+Abingdon,,,John Mosser Public Library District,106 West Meek Street,61410,(309) 462-3129
+Addison,http://www.addisonlibrary.org,http://www.addisonlibrary.org/rss/events.aspx,Addison Public Library,2 Friendship Plaza,60101,(630) 543-3617
+Albany,,,Albany Public Library District,302 South Main Street,61230,(309) 887-4193
+Albion,,,Albion Public Library,6 North Fourth Street,62806,(618) 445-3314
+Aledo,,,Aledo Mercer Carnegie Public Library District,200 N. College Av.,,(309) 582-2032
+Aledo,http://mercercarnegielibrary.home.mchsi.com,,Mercer Carnegie Public Library District,200 North College Avenue,61231,(309) 582-2032
+Alexis,,,Alexis Branch Library,102 West Broadway,,(309) 482-6109
+Algonquin,http://www.aapld.org,http://il.evanced.info/aapld/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Algonquin Area Public Library District,2600 Harnish Drive,60102,(847) 458-6060
+Algonquin,,,Eastgate Branch,115 Eastgate,,(847) 658-4343
+Alsip,http://www.alsip-mp.lib.il.us,,Alsip-Merrionette Park Library District,11960 South Pulaski Road,60803,(708) 371-5666
+Altamont,http://www.altamontpubliclibrary.com,,Altamont Public Library,121 West Washington Avenue,62411,(618) 483-5457
+Alto Pass,,,Alto Pass Branch Library,25 N. Elm St.,,(618) 893-4920
+Alton,,,Alton Square Branch Library,210 Alton Square,,(618) 463-1276
+Alton,http://www.haynerlibrary.org,,Hayner Public Library District,326 Belle Street,62002,(618) 462-0677
+Alton,,,The Hayner Public Library District,326 Belle Street,,(618) 462-0651
+Alton,,,Youth Library,401 State Street,,(618) 462-0652
+Altona,,,Ransom Memorial Public Library,110 East Main Street,61414,(309) 484-6193
+Amboy,http://www.essex1.com/people/pmlamboy/,,Pankhurst Memorial Library,3 South Jefferson Avenue,61310,(815) 857-3925
+Andalusia,,,Andalusia Township Library,503 Second Street West,61232,(309) 798-2542
+Anna,http://www.stinsonlibrary.org,,Stinson Memorial Public Library District,409 South Main Street,62906,(618) 833-2521
+Annawan,http://www.annawanillinois.org/library.htm,,Annawan-Alba Township Library,320 West Front Street,61234,(309) 935-6483
+Antioch,http://antiochdistrictlibrary.org,,Antioch Public Library District,757 Main Street,60002,(847) 395-0874
+Arcola,,,Arcola Public Library District,407 East Main Street,61910,(217) 268-4477
+Argenta,http://myweb.cebridge.biz/argenta_oreana.l/,,Argenta-Oreana Public Library District,100 East Water Street,62501,(217) 795-2144
+Arlington Heights,http://www.ahml.info,http://events.ahml.info/evanced/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Arlington Heights Memorial Library,500 North Dunton Avenue,60004,(847) 392-0100
+Arthur,http://arthur.k12.il.us/apl,,Arthur Public Library District,225 South Walnut Street,61911,(217) 543-2037
+Ashland,,,Ashland Public Library,125 W. Editor,,(217) 476-3417
+Ashland,http://prairieskieslibrary.com/,,Prairie Skies Public Library District,125 West Editor Street,62612,(217) 476-3417
+Ashley,,,Ashley Public Library District,70 North Second Street,62808,(618) 485-2295
+Ashton,http://www.svonline.net/~milpetri/library.html,,Mills Petrie Memorial Library And Gymnasium,704 North First Street,61006,(815) 453-2213
+Assumption,http://www.assumptionpubliclibrary.com,,Assumption Public Library District,205 North Oak Street,62510,(217) 226-3915
+Astoria,http://www.astoria.lib.il.us/,,Astoria Public Library District,220 West Broadway,61501,(309) 329-2423
+Athens,http://athenslibrary.weebly.com/,,Athens Municipal Library,410 East Hargrave Street,62613,(217) 636-8047
+Atkinson,http://atkinsonlibrary.info,,Atkinson Public Library District,119 West Main Street,61235,(309) 936-7606
+Atlanta,,,Atlanta Public Library District,100 Race Street,61723,(217) 648-2112
+Atwood,http://www.ahlibrary.com,,Atwood-Hammond Public Library District,123 North Main Street,61913,(217) 578-2727
+Auburn,,,Auburn Public Library,338 West Jefferson Street,62615,(217) 438-6211
+Augusta,,,Greater West Central Public Library District,202 North Center Street,62311,(217) 392-2211
+Augusta,,,Greater West Central Public Library District,202 Center St,,(217) 392-2211
+Aurora,http://www.aurora.lib.il.us,http://www.aurora.lib.il.us/evanced/lib/eventsxml.asp?ag=&et=&lib=ALL&nd=100,Aurora Public Library,1 East Benton Street,60505,(630) 264-4100
+Aurora,,,Eola Road Branch,555 S. Eola Road,,(620) 264-3400
+Aurora,,,West Branch,233 S. Constitution Drive,,(630) 264-3600
+Avon,,,Village Of Avon Public Library,105 South Main Street,61415,(309) 465-3933
+Barrington,http://www.barringtonarealibrary.org,http://www.barringtonarealibrary.org/evanced/lib0/eventsxml.asp?ag=&et=&lib=0&nd=100,Barrington Public Library District,505 North Northwest Highway,60010,(847) 382-1300
+Barry,,,Barry Public Library,880 Bainbridge Street,62312,(217) 335-2149
+Bartlett,http://www.bartlett.lib.il.us,https://il.evanced.info/bartlett/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Bartlett Public Library District,800 South Bartlett Road,60103,(630) 837-2855
+Bartonville,http://www.alphapark.org,,Alpha Park Public Library District,3527 South Airport Road,61607,(309) 697-3822
+Batavia,http://www.bataviapubliclibrary.org,http://evanced.bataviapubliclibrary.org/eventsxml.asp?ag=&et=&lib=0&nd=100,Batavia Public Library District,10 South Batavia Avenue,60510,(630) 879-1393
+Beardstown,http://www.beardstown.lib.il.us/,,Beardstown Houston Memorial Public Library,13 Boulevard Road,62618,(217) 323-4204
+Bedford Park,http://www.bplib.net,,Bedford Park Public Library District,7816 West 65th Place,60501,(708) 458-6826
+Beecher,http://www.villageofbeecher.org/library/,,Beecher Public Library District,660 Penfield Street,60401,(708) 946-9090
+Beecher City,,,Beecher City Branch Library,205 S. Sweazy St.,,
+Belleville,http://www.bellevillepubliclibrary.org,,Belleville Public Library,121 East Washington Street,62220,(618) 234-0441
+Belleville,,,West Branch,3414 West Main Street,,(618) 233-4366
+Bellwood,http://www.bellwoodlibrary.org,,Bellwood Public Library,600 Bohland Avenue,60104,(708) 547-7393
+Belvidere,http://www.idapubliclibrary.org,,Ida Public Library,320 North State Street,61008,(815) 544-3838
+Bement,,,Bement Public Library District,349 South Macon Street,61813,(217) 678-7101
+Benld,http://www.benldlibrary.org,,Frank Bertetti Benld Public Library,308 East Central Avenue,62009,(217) 835-4045
+Bensenville,http://www.bensenville.lib.il.us,,Bensenville Community Public Library District,200 South Church Road,60106,(630) 766-4642
+Benton,http://www.benton.lib.il.us,,Benton Public Library District,502 South Main Street,62812,(618) 438-7511
+Berkeley,http://www.berkeleylib.org,,Berkeley Public Library,1637 North Taft Avenue,60163,(708) 544-6017
+Berwyn,http://www.berwynlibrary.net,,Berwyn Public Library,2701 South Harlem Avenue,60402,(708) 795-8000
+Bethalto,http://www.bethaltolibrary.org,,Bethalto Public Library District,321 South Prairie Street,62010,(618) 377-8141
+Bethany,http://www.geocities.com/sea201/marrowbone.html,,Marrowbone Public Library District,216 West Main Street,61914,(217) 665-3014
+Biggsville,http://www.hendersoncounty.lib.il.us/library/index.html,,Henderson County Public Library District,110 Hill Crest Drive,61418,(309) 627-2450
+Blandinsville,,,Blandinsville-Hire Library District,130 South Main Street,61420,(309) 652-3166
+Bloomingdale,http://www.mybpl.org,,Bloomingdale Public Library,101 Fairfield Way,60108,(630) 529-3120
+Bloomington,http://www.bloomingtonlibrary.org,,Bloomington Public Library,205 East Olive Street,61701,(309) 828-6091
+Blue Island,http://www.blueislandlibrary.org,,Blue Island Public Library,2433 York Street,60406,(708) 388-1078
+Blue Mound,http://www.bluemoundil.netfirms.com,,Blue Mound Memorial Library District,213 North Saint Marie Street,62513,(217) 692-2774
+Bluffs,,,Bluffs Public Library,110 North Bluff Street,62621,(217) 754-3804
+Bolingbrook,http://www.fountaindale.lib.il.us,http://host7.evanced.info/fountaindale/evanced/eventsxml.asp?ag=&et=&lib=0&nd=100,Fountaindale Public Library District,300 West Briarcliff Road,60440,(630) 759-2102
+Bourbonnais,http://bourbonnais.lib.il.us,,Bourbonnais Public Library District,250 West John Casey Road,60914,(815) 933-1727
+Bowen,,,Bowen Branch,116 Fifth St,,(217) 842-5573
+Bradford,,,Bradford Public Library District,111 South Peoria Street,61421,(309) 897-8400
+Bradley,http://www.bradley.lib.il.us,,Bradley Public Library District,296 North Fulton Avenue,60915,(815) 932-6245
+Braidwood,http://www.fossilridge.org,,Fossil Ridge Public Library District,386 West Kennedy Road,60408,(815) 458-2187
+Breese,http://www.breeselibrary.org,,Breese Public Library,530 North Third Street,62230,(618) 526-7361
+Bridgeview,http://www.bridgeviewlibrary.org,,Bridgeview Public Library,7840 West 79th Street,60455,(708) 458-2880
+Brighton,http://www.brightonpubliclibrary.org,,Brighton Memorial Public Library,110 North Main Street,62012,(618) 372-8450
+Brimfield,http://brimfieldlibrary.org,,Brimfield Public Library District,111 South Galena Street,61517,(309) 446-9575
+Brimfield,http://brimfieldlibrary.org/,,Brimfield Public Library District,111 S. Galena Street,,(309) 446-9575
+Broadview,http://www.broadviewlibrary.org,,Broadview Public Library District,2226 South 16th Avenue,60155,(708) 345-1325
+Brookfield,http://www.brookfieldpubliclibrary.info,http://www2.brookfieldlibrary.info/evanced/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Brookfield Public Library,3609 Grand Boulevard,60513,(708) 485-6917
+Brussels,,,South County Public Library District,106 West Main Street,62013,(618) 883-2522
+Buda,,,Mason Memorial Public Library,104 West Main Street,61314,(309) 895-7701
+Bunker Hill,http://www.618connect.com/~bhlibrary/,,Bunker Hill Public Library District,220 East Warren Street,62014,(618) 585-4736
+Burbank,http://www.prairietrailslibrary.org,,Prairie Trails Public Library District,8449 South Moody Avenue,60459,(708) 430-3688
+Bureau,http://leepertown.lib.il.us,,Leepertown Township Public Library,201 East Nebraska Street,61315,(815) 659-3283
+Bushnell,http://homepage.bushnell.net/~plibrary,,Bushnell Public Library District,455 North Dean Street,61422,(309) 772-2060
+Byron,http://www.byron.lib.il.us/,,Byron Public Library District,109 North Franklin Street,61010,(815) 234-5107
+Cahokia,http://cahokialibrary.org,,Cahokia Public Library District,140 Cahokia Park Drive,62206,(618) 332-1491
+Cairo,,,Cairo Public Library,1609 Washington Avenue,62914,(618) 734-1840
+Calumet City,http://www.calumetcitypl.org,,Calumet City Public Library,660 Manistee Avenue,60409,(708) 862-6220
+Calumet Park,,,Calumet Park Public Library,1500 West 127th Street,60827,(708) 385-5768
+Cambridge,,,Cambridge Public Library District,212 West Center Street,61238,(309) 937-2233
+Camp Point,,,Camp Point Public Library District,206 East State Street,62320,(217) 593-7021
+Canaryville,http://www.chipublib.org/branch/details/library/canaryville/,,Canaryville Branch,642 W. 43rd Street,60609,(312) 747-0644
+Canton,http://www.parliningersoll.org/,,Parlin-Ingersoll Public Library,205 West Chestnut Street,61520,(309) 647-0328
+Carbondale,http://www.carbondale.lib.il.us/,,Carbondale Public Library,405 West Main Street,,(618) 457-0354
+Carbondale,http://www.carbondale.lib.il.us,,Carbondale Public Library,405 West Main Street,62901,(618) 457-0354
+Carlinville,http://carlinvillelibrary.org,,Carlinville Public Library,510 North Broad Street,62626,(217) 854-3505
+Carlock,,,Carlock Public Library District,202 East Washington Street,61725,(309) 376-5651
+Carlock,,,White Oak Township Public Library District,202 E. Washington,,(309) 376-5651
+Carlyle,http://webcat.lcls.org,,Case-Halstead Public Library,571 Franklin Street,62231,(618) 594-5210
+Carmi,http://search.carmi.lib.il.us,,Carmi Public Library,103 Slocumb Street,62821,(618) 382-5277
+Carol Stream,http://www.cslibrary.org,,Carol Stream Public Library,616 Hiawatha Drive,60188,(630) 653-0755
+Carrier Mills,http://cms.lib.il.us,,Carrier Mills-Stonefort Public Library District,109 Oak Street,62917,(618) 994-2011
+Carrollton,http://c-hawks.org/library/libabout.html,,Carrollton Public Library,509 South Main Street,62016,(217) 942-6715
+Carterville,http://www.carterville.lib.il.us,,Anne West Lindsey Carterville District Library And Nature Pa,117 South Division Street,62918,(618) 985-3298
+Carterville,http://www.carterville.lib.il.us/,,Carterville Public Library,117 S. Division Street,,(618) 985-3298
+Carthage,http://www.carthage.lib.il.us,,Carthage Public Library District,500 Wabash Avenue,62321,(217) 357-3232
+Cary,http://www.cary.lib.il.us,http://www.carylibrary.info/evanced/lib0/eventsxml.asp?ag=&et=&lib=0&nd=100,Cary Area Public Library District,1606 Three Oaks Road,60013,(847) 639-4210
+Casey,,,Casey Township Library,307 East Main Street,62420,(217) 932-2105
+Caseyville,http://www.caseyvillelibrary.org,,Caseyville Public Library District,419 South Second Street,62232,(618) 345-5848
+Catlin,http://lincolntrail.info/cnn.html,,Catlin Public Library District,101 Mapleleaf Drive,61817,(217) 427-2550
+Centralia,,,Allen Mccarthy Branch Library,1500 Case,,(618) 533-9625
+Centralia,http://www.centralialibrary.org,,Centralia Regional Library District,515 East Broadway Avenue,62801,(618) 532-5222
+Centreville,http://www.centrevillelibrary.org,,Centreville Public Library,701 South 47th Street,62207,(618) 271-2040
+Cerro Gordo,http://www.hopeweltylibrary.com,,Hope Welty Public Library District,100 South Madison Street,61818,(217) 763-5001
+Chadwick,http://chadwicklibrary.org,,Chadwick Public Library District,110 Main Street,61014,(815) 684-5215
+Champaign,http://www.champaign.org,http://host5.evanced.info/champaign/evanced/eventsxml.asp?lib=ALL&nd=100,Champaign Public Library,200 West Green Street,61820,(217) 403-2050
+Champaign,,,Douglass Branch Library,504 E. Grove St.,,(217) 403-2090
+Channahon,http://www.trpld.org,http://il.evanced.info/threerivers/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Three Rivers Public Library District,25207 West Channon Drive,60410,(815) 467-6200
+Charleston,http://www.charlestonlibrary.org,,Charleston Carnegie Public Library,712 Sixth Street,61920,(217) 345-4913
+Chatham,http://www.chatham.lib.il.us,,Chatham Area Public Library District,600 East Spruce Street,62629,(217) 483-2713
+Chatsworth,,,Chatsworth Township Library,432 East Locust Street,60921,(815) 635-3004
+Chenoa,http://www.chenoapublic.lib.il.us,,Chenoa Public Library District,211 South Division Street,61726,(815) 945-4253
+Cherry Valley,http://www.cherryvalley.lib.il.us,http://host4.evanced.info/cherryvalley/evanced/eventsxml.asp?ag=&et=&lib=0&nd=100,Cherry Valley Public Library District,755 East State Street,61016,(815) 332-5161
+Chester,http://www.chester.lib.il.us,,Chester Public Library,733 State Street,62233,(618) 826-3711
+Chicago,http://www.chipublib.org/branch/details/library/albany-park/,,Albany Park Branch,5150 N. Kimball Avenue,,(312) 744-1933
+Chicago,http://www.chipublib.org/branch/details/library/altgeld/,,Altgeld Branch,950 E. 132nd Place,,(312) 747-5952
+Chicago,http://www.chipublib.org/branch/details/library/archer-heights/,,Archer Heights Branch,5055 S. Archer Avenue,,(312) 747-9241
+Chicago,http://www.chipublib.org/branch/details/library/austin/,,Austin Branch,5615 W. Race Avenue,,(312) 746-5038
+Chicago,http://www.chipublib.org/branch/details/library/austin-irving/,,Austin-Irving Branch,6100 W. Irving Park Road,,(312) 744-6222
+Chicago,http://www.chipublib.org/branch/details/library/avalon/,,Avalon Branch,8828 S. Stony Island,,(312) 747-5234
+Chicago,http://www.chipublib.org/branch/details/library/back-of-the-yards/,,Back Of The Yards Branch,4650 S. Damen Avenue,,(312) 747-8367
+Chicago,http://www.chipublib.org/branch/details/library/bessie-coleman/,,Bessie Coleman Branch,731 E. 63rd Street,,(312) 747-7760
+Chicago,http://www.chipublib.org/branch/details/library/beverly/,,Beverly Branch,2121 W. 95th Street,,(312) 747-9673
+Chicago,http://www.chipublib.org/branch/details/library/bezazian/,,Bezazian Branch,1226 W. Ainslie Street,,(312) 744-0019
+Chicago,http://www.chipublib.org/branch/details/library/blackstone/,,Blackstone Branch,4904 S. Lake Park Avenue,,(312) 747-0511
+Chicago,http://www.chipublib.org/branch/details/library/brainerd/,,Brainerd Branch,1350 W. 89th Street,,(312) 747-6291
+Chicago,http://www.chipublib.org/branch/details/library/brighton-park/,,Brighton Park Branch,4314 Archer Avenue,,(312) 747-0666
+Chicago,http://www.chipublib.org/branch/details/library/bucktown-wicker-park/,,Bucktown-Wicker Park Branch,1701 N. Milwaukee Ave.,,(312) 744-6022
+Chicago,http://www.chipublib.org/branch/details/library/budlong-woods/,,Budlong Woods Branch,5630 N. Lincoln Avenue,,(312) 742-9590
+Chicago,http://www.chipublib.org/branch/details/library/chicago-bee/,,Chicago Bee Branch,3647 S. State Street,60609,(312) 747-6872
+Chicago,http://www.chipublib.org/branch/details/library/chicago-lawn/,,Chicago Lawn Branch,6120 S. Kedzie Avenue,60629,(312) 747-0639
+Chicago,http://www.chicagopubliclibrary.org,,Chicago Public Library,400 South State Street,60605,(312) 747-4999
+Chicago,http://www.chipublib.org/branch/details/library/chinatown/,,Chinatown Branch,2353 S. Wentworth Avenue,,(312) 747-8013
+Chicago,http://www.chipublib.org/branch/details/library/clearing/,,Clearing Branch,6423 W. 63rd Place,,(312) 747-5657
+Chicago,http://www.chipublib.org/branch/details/library/douglass/,,Douglass Branch,3353 W. 13th Street,,(312) 747-3725
+Chicago,http://www.chipublib.org/branch/details/library/dunning/,,Dunning Branch,7455 W. Cornelia Avenue,60634,(312) 743-0480
+Chicago,,,Eckhart Park Branch,1371 W. Chicago Avenue,,(312) 746-6069
+Chicago,http://www.chipublib.org/branch/details/library/edgebrook/,,Edgebrook Branch,5331 W. Devon Avenue,,(312) 744-8313
+Chicago,http://www.chipublib.org/branch/details/library/edgewater/,,Edgewater Branch,1210 W. Elmdale Avenue,,(312) 744-0718
+Chicago,http://www.chipublib.org/branch/details/library/gage-park/,,Gage Park Branch,2807 W. 55th Street,,(312) 747-0032
+Chicago,http://www.chipublib.org/branch/details/library/galewood-mont-clare/,,Galewood-Mont Clare Branch,6969 W. Grand Avenue,,(312) 746-5032
+Chicago,http://www.chipublib.org/branch/details/library/garfield-ridge/,,Garfield Ridge Branch,6348 Archer Avenue,,(312) 747-6094
+Chicago,http://www.chipublib.org/branch/details/library/greater-grand-crossing/,,Greater Grand Crossing Branch,1000 East 73rd Street,60619,(312) 745-1608
+Chicago,http://www.chipublib.org/branch/details/library/hall/,,Hall Branch,4801 S. Michigan Avenue,,(312) 747-2541
+Chicago,http://www.chipublib.org/branch/details/library/harold-washington/,,Harold Washington Library Center(Main Library),400 S. State Street,,(312) 747-4999
+Chicago,http://www.chipublib.org/branch/details/library/hegewisch/,,Hegewisch Branch,3048 E. 130th Street,,(312) 747-0046
+Chicago,http://www.chipublib.org/branch/details/library/humboldt/,,Humboldt Park,1605 N. Troy Street,60647,(312) 744-2244
+Chicago,http://www.chipublib.org/branch/details/library/independence/,,Independence Branch,3548 W. Irving Park Road,,(312) 744-0900
+Chicago,http://www.chipublib.org/branch/details/library/jefferson-park/,,Jefferson Park Branch,5363 W. Lawrence Avenue,,(312) 744-1998
+Chicago,http://www.chipublib.org/branch/details/library/jeffery-manor/,,Jeffery Manor Branch,2401 East 100th Street,,(312) 747-6479
+Chicago,http://www.chipublib.org/branch/details/library/j-merlo-branch/,,John Merlo Branch,644 W. Belmont Avenue,,(312) 744-1139
+Chicago,http://www.chipublib.org/branch/details/library/kelly/,,Kelly Branch,6151 S. Normal Boulvard,,(312) 747-8418
+Chicago,http://www.chipublib.org/branch/details/library/legler/,,Legler Branch (Marshall Square),115 S. Pulaski Road,,(312) 746-7730
+Chicago,http://www.chipublib.org/branch/details/library/lincoln-belmont/,,Lincoln Belmont Branch,1659 W. Melrose Avenue,,(312) 744-0166
+Chicago,http://www.chipublib.org/branch/details/library/lincoln-park/,,Lincoln Park Branch,1150 W. Fullerton Avenue,,(312) 744-1926
+Chicago,http://www.chipublib.org/branch/details/library/little-village/,,Little Village Branch,2311 S. Kedzie,60623,
+Chicago,http://www.chipublib.org/branch/details/library/logan-square/,,Logan Square Branch,3255 W. Altgeld Street,,(312) 744-5295
+Chicago,http://www.chipublib.org/branch/details/library/mabel-manning/,,Mabel Manning Branch,6 S. Hoyne Avenue,,(312) 746-6800
+Chicago,http://www.chipublib.org/branch/details/library/king/p/nearbyschools/,,"Martin Luther King, Jr. Branch",3436 S. King Drive,,(312) 747-7543
+Chicago,http://www.chipublib.org/branch/details/library/mayfair/,,Mayfair Branch,4400 W. Lawrence Avenue,,(312) 744-1254
+Chicago,http://www.chipublib.org/branch/details/library/mckinley-park/,,Mckinley Park Branch,1915 W. 35th Street,,(312) 747-6082
+Chicago,,,Midwest Branch,2335 W. Chicago Avenue,,(312) 744-7788
+Chicago,http://www.chipublib.org/branch/details/library/mt-greenwood/,,Mount Greenwood Branch,11010 S. Kedzie Avenue,,(312) 747-2805
+Chicago,http://www.chipublib.org/branch/details/library/near-north/,,Near North Branch,310 W. Division Street,,(312) 744-0991
+Chicago,http://www.chipublib.org/branch/details/library/north-austin/,,North Austin Branch,5724 W. North Avenue,,(312) 746-4233
+Chicago,http://www.chipublib.org/branch/details/library/north-pulaski/,,North Pulaski Branch,4300 W. North Avenue,,(312) 744-9573
+Chicago,http://www.chipublib.org/branch/details/library/northtown/,,Northtown Branch,6435 N. California,,(312) 744-2292
+Chicago,,,Oriole Park Branch,5201 N. Oketo Avenue,,(312) 744-1965
+Chicago,http://www.chipublib.org/branch/details/library/portage-cragin/,,Portage-Cragin Branch,5108 W. Belmont Avenue,,(312) 744-0152
+Chicago,http://www.chipublib.org/branch/details/library/pullman/,,Pullman Branch,11001 S. Indiana Avenue,,(312) 747-2033
+Chicago,http://www.chipublib.org/branch/details/library/daley/,,Richard J. Daley Branch,3400 S. Halsted Street,,(312) 747-8990
+Chicago,http://www.chipublib.org/branch/details/library/daley-w-humboldt/,,Richard M. Daley-W Humboldt Branch,1605 N. Troy Street,,(312) 744-2244
+Chicago,http://www.chipublib.org/branch/details/library/roden/,,Roden Branch,6083 Northwest Hwy. 60631,,(312) 744-1478
+Chicago,http://www.chipublib.org/branch/details/library/rogers-park/,,Rogers Park Branch,6907 N. Clark Street,,(312) 744-0156
+Chicago,http://www.chipublib.org/branch/details/library/roosevelt/,,Roosevelt Branch,1101 W. Taylor Street,,(312) 746-5656
+Chicago,http://www.chipublib.org/branch/details/library/lozano/,,Rudy Lozano Branch,1805 S. Loomis Street,,(312) 746-4329
+Chicago,http://www.chipublib.org/branch/details/library/scottsdale/,,Scottsdale Branch,4101 W. 79th Street,,(312) 747-0193
+Chicago,http://www.chipublib.org/branch/details/library/sherman-park/,,Sherman Park Branch,5440 S. Racine Avenue,,(312) 747-0477
+Chicago,http://www.chipublib.org/branch/details/library/south-chicago/,,South Chicago Branch,9055 S. Houston Avenue,,(312) 747-8065
+Chicago,http://www.chipublib.org/branch/details/library/south-shore/,,South Shore Branch,2505 E. 73rd Street,,(312) 747-5281
+Chicago,http://www.chipublib.org/branch/details/library/sulzer-regional/,,Sulzer Regional,4455 N. Lincoln Avenue,,(312) 744-7616
+Chicago,http://www.chipublib.org/branch/details/library/thurgood-marshall/,,Thurgood Marshall Branch,7506 S. Racine Avenue,,(312) 747-5927
+Chicago,http://www.chipublib.org/branch/details/library/toman/,,Toman Branch,4005 W. 27th Street,,(312) 747-8114
+Chicago,,,Tuley Park Branch,501 E. 90th Place,,(312) 747-7608
+Chicago,http://www.chipublib.org/branch/details/library/uptown/,,Uptown Branch,929 W. Buena Avenue,,(312) 744-8400
+Chicago,http://www.chipublib.org/branch/details/library/vodak-east-side/,,Vodak East Side Branch,10542 S. Ewing Avenue,,(312) 747-5500
+Chicago,http://www.chipublib.org/branch/details/library/walker/,,Walker Branch,11071 S. Hoyne Avenue,,(312) 747-1920
+Chicago,http://www.chipublib.org/branch/details/library/water-works/,,Water Works Branch,163 E. Pearson Street,60611,(312) 742-8811
+Chicago,,,West Addison Branch,7536 W. Addison Street,,(312) 746-4704
+Chicago,http://www.chipublib.org/branch/details/library/west-belmont/,,West Belmont Branch,3104 N. Narragansett Avenue,,(312) 746-5142
+Chicago,http://www.chipublib.org/branch/details/library/west-chicago-avenue/,,West Chicago Avenue Branch,4856 W. Chicago Ave.,,(312) 743-0260
+Chicago,http://www.chipublib.org/branch/details/library/west-englewood/,,West Englewood Branch,1745 W. 63rd Street,,(312) 747-3481
+Chicago,http://www.chipublib.org/branch/details/library/west-lawn/,,West Lawn Branch,4020 W. 63rd Street,,(312) 747-7381
+Chicago,http://www.chipublib.org/branch/details/library/west-pullman/,,West Pullman Branch,830 W. 119th Street,,(312) 747-1425
+Chicago,http://www.chipublib.org/branch/details/library/west-town/,,West Town Branch,1625 W. Chicago Avenue,60622,(312) 743-0450
+Chicago,http://www.chipublib.org/branch/details/library/whitney-young/,,"Whitney M. Young, Jr. Branch",7901 S. King Drive,,(312) 747-0039
+Chicago,http://www.chipublib.org/branch/details/library/woodson-regional/,,Woodson Regional Library,9525 S. Halsted Street,,(312) 747-6900
+Chicago,http://www.chipublib.org/branch/details/library/wrightwood/,,Wrightwood-Ashburn Branch,8530 S. Kedzie Avenue,,(321) 747-2696
+Chicago Heights,http://www.chicagoheightslibrary.org,,Chicago Heights Public Library,25 West Fifteenth Street,60411,(708) 754-0323
+Chicago Ridge,http://www.chicagoridge.lib.il.us,,Chicago Ridge Public Library,10400 South Oxford Avenue,60415,(708) 423-7753
+Chillicothe,http://www.chillicothepubliclibrary.org,,Chillicothe Public Library District,430 North Bradley Avenue,61523,(309) 274-2719
+Chrisman,,,Chrisman Public Library,108 North Illinois Street,61924,(217) 269-3011
+Christopher,,,Christopher Public Library,202 East Market Street,62822,(618) 724-7534
+Cicero,http://www.cicerolibrary.org,,Cicero Public Library,5225 West Cermak Road,60804,(708) 652-8084
+Cicero,,,Cicero Public Library South Branch,5444 W. 34th Street,,(708) 863-8440
+Cisco,,,Willow Branch Township Library,330 North Eldon Street,61830,(217) 669-2312
+Cissna Park,,,Cissna Park Community Library District,511 North Second Street,60924,(815) 457-2452
+Clarendon Hills,,,Clarendon Hills Public Library,7 North Prospect Avenue,60514,(630) 323-8188
+Clayton,,,Clayton Public Library District,211 East Main Street,62324,(217) 894-6519
+Clifton,http://www.ccld.org,,Central Citizens Library District,1134 East 3100 North Road,60927,(815) 694-2800
+Clifton,http://www.cliftonlibrary.info,,Clifton Public Library,150 East Fourth Avenue,60927,(815) 694-2069
+Clinton,http://www.warner.lib.il.us,,Vespasian Warner Public Library District,310 North Quincy Street,61727,(217) 935-5174
+Coal City,http://coalcity.lib.il.us,,Coal City Public Library District,85 North Garfield Street,60416,(815) 634-4552
+Coal Valley,http://www.coalval.lib.il.us,,Robert R. Jones Public Library District,900 First Street,61240,(309) 799-3047
+Cobden,,,Cobden Branch Library,100 S. Front St.,,(618) 893-4637
+Colchester,,,Colchester District Library,203 Macomb Street,62326,(309) 776-4861
+Colfax,http://www.mtpl.lib.il.us/library,,Martin Township Public Library,132 West Main Street,61728,(309) 723-2541
+Collinsville,http://www.collinsvillelibrary.org/,,Collinsville Memorial Public Library,408 West Main St.,,(618) 344-1112
+Collinsville,http://www.collinsvillelibrary.org,,Mississippi Valley Public Library District,408 West Main Street,62234,(618) 344-1112
+Colona,http://www.colonalibrary.com,,Colona District Public Library,911 First Street,61241,(309) 792-0548
+Columbia,http://www.columbialibrary.org,,Columbia Public Library,106 North Metter Avenue,62236,(618) 281-4237
+Cordova,http://www.cordova.lib.il.us,,Cordova District Library,402 Main Avenue,61242,(309) 654-2330
+Cornell,,,Amity Township Public Library,604 East Main Street,61319,(815) 358-2231
+Cortland,http://www.cortlandlibrary.com,,Cortland Community Library,63 South Somonauk Road,60112,(815) 756-7274
+Coulterville,,,Coulterville Public Library,103 South Fourth Street,62237,(618) 758-3013
+Cowden,,,Dry Point Township Library,po box 275,62422,(217) 783-2616
+Crest Hill,http://www.whiteoaklibrary.org,,Crest Hill Branch Library,1298 Theodore Street,,(815) 725-0234
+Creston,http://www.creston.lib.il.us,,Creston-Dement Public Library District,107 South Main Street,60113,(815) 384-3111
+Crestwood,http://crestwoodlibrary.org,,Crestwood Public Library District,4955 West 135th Street,60445,(708) 371-4090
+Crete,http://www.cretelibrary.org,,Crete Public Library District,1177 North Main Street,60417,(708) 672-8017
+Creve Coeur,http://www.crevecoeurpubliclibrary.com,,Creve Coeur Public Library District,311 North Highland Street,61610,(309) 699-7921
+Crystal Lake,http://www.crystallakelibrary.org,,Crystal Lake Public Library,126 Paddock Street,60014,(815) 459-1687
+Cuba,http://www.cubaspoonriverlibrary.com,,Spoon River Library District,201 South Third Street,61427,(309) 785-5496
+Cutler,,,Cutler Public Library,409 South Main Street,62238,(618) 497-2961
+Dahlgren,,,Dahlgren Public Library,po box 237,62828,(618) 736-2652
+Danvers,,,Danvers Township Library,105 South West Street,61732,(309) 963-4269
+Danville,http://www.danville.lib.il.us,,Danville Public Library,319 North Vermilion Street,61832,(217) 477-5220
+Darien,http://www.indianprairielibrary.org,,Indian Prairie Public Library District,401 Plainfield Road,60561,(630) 887-8760
+Decatur,http://www.decatur.lib.il.us,,Decatur Public Library,130 North Franklin Street,62523,(217) 424-2900
+Deer Creek,http://www.deercreekillinois.org,,Deer Creek District Library,205 East First Avenue,61733,(309) 447-6724
+Deerfield,http://www.deerfieldlibrary.org/,,Deerfield Public Library,920 Waukegan Road,60015,(847) 945-3311
+Dekalb,http://www.dkpl.org,,Dekalb Public Library,309 Oak Street,60115,(815) 756-9568
+Deland,,,Goose Creek Township Carnegie Library,130 North Highway Avenue,61839,(217) 664-3572
+Delavan,http://ayerpubliclibrary.com,,Ayer Public Library District,208 Locust Street,61734,(309) 244-8236
+Depue,,,Selby Township Library District,101 Depot Street,61322,(815) 447-2660
+Des Plaines,http://www.dppl.org,,Des Plaines Public Library,1501 Ellinwood Street,60016,(847) 827-5551
+Divernon,,,Divernon Township Library,221 South Second Street,62530,(217) 628-3813
+Divernon,,,Divernon Township Library,221 South Second,,(217) 628-3813
+Dixon,http://www.dixonpubliclibrary.org,,Dixon Public Library,221 South Hennepin Avenue,61021,(815) 284-7261
+Dolton,http://www.doltonpubliclibrary.org,,Dolton Public Library District,14037 Lincoln Avenue,60419,(708) 849-2385
+Dongola,,,Dongola Public Library District,114 North East Front Street,62926,(618) 827-3622
+Downers Grove,http://www.downersgrovelibrary.org,,Downers Grove Public Library,1050 Curtiss Street,60515,(630) 960-1200
+Du Quoin,http://www.dpl.lib.il.us/,,Du Quoin Public Library,28 South Washington St.,,(618) 542-5045
+Dunlap,http://dunlaplibrary.home.mchsi.com,,Dunlap Public Library District,302 South First Street,61525,(309) 243-5716
+Dupo,http://www.dupolibrary.org,,Daugherty Public Library District,220 South Fifth Street,62239,(618) 286-4444
+Duquoin,http://www.dpl.lib.il.us,,Duquoin Public Library,28 South Washington Street,62832,(618) 542-5045
+Dwight,http://www.prairiecreeklibrary.org,,Prairie Creek Public Library District,501 Carriage House Lane,60420,(815) 584-3061
+Earlville,http://www.earlvillelibrary.org/,,Earl Township Public Library,205 Winthrop Street,,(815) 246-9543
+Earlville,http://www.earlvillelibrary.org,,Earlville Public Library District,205 Winthrop Street,60518,(815) 246-9543
+East Alton,http://www.eastaltonlibrary.org,,East Alton Public Library District,250 Washington Avenue,62024,(618) 259-0787
+East Dubuque,http://www.eastdubuquelibrary.com,,East Dubuque District Library,350 Wall Street,61025,(815) 747-3052
+East Dundee,,,Dundee Township Public Library District,555 Barrington Avenue,60118,(847) 428-3661
+East Moline,http://empl.lib.il.us/index.html,,East Moline Public Library,740 Sixteenth Avenue,61244,(309) 755-9614
+East Peoria,http://www.fondulaclibrary.org,,Fondulac Public Library District,140 East Washington Street,61611,(309) 699-3917
+East Peoria,,,Spring Bay Branch,411 Illinois Street,,(309) 822-0444
+East St Louis,http://www.eslpl.org,,East St. Louis Public Library,5300 State Street,62203,(618) 397-0991
+Edwardsville,http://www.edwardsvillelibrary.org,,Edwardsville Public Library,112 South Kansas Street,62025,(618) 692-7556
+Effingham,http://www.effinghamlibrary.org,,Helen Matthes Library,100 East Market Avenue,62401,(217) 342-2464
+El Paso,http://www.elpasopubliclibrary.net,,El Paso Public Library,149 West First Street,61738,(309) 527-4360
+Elburn,http://www.elburn.lib.il.us,,Town And Country Public Library District,320 East North Street,60119,(630) 365-2244
+Eldorado,http://www.eldorado.lib.il.us,,Eldorado Memorial Public Library District,1001 Grant Street,62930,(618) 273-7922
+Elgin,,,Gail Borden Public Library District,270 North Grove Avenue,60120,(847) 742-2411
+Elizabeth,,,Elizabeth Township Library,210 East Myrtle Street,61028,(815) 858-2212
+Elk Grove Village,http://www.egvpl.org,,Elk Grove Village Public Library,1001 Wellington Avenue,60007,(847) 439-0447
+Elkhart,,,Elkhart Public Library District,121 East Bohan Street,62634,(217) 947-2313
+Elkville,http://rickwarren.lib.il.us,,Rick Warren Memorial Public Library District,114 South Fourth Street,62932,(618) 568-1843
+Elmhurst,http://www.elmhurstpubliclibrary.org,,Elmhurst Public Library,125 South Prospect Avenue,60126,(630) 279-8696
+Elmwood,,,Morrison Mary Wiley Library,206 West Main Street,61529,(309) 742-2431
+Elmwood Park,http://www.elmwoodparklibrary.org,,Elmwood Park Public Library,1 Conti Parkway,60707,(708) 453-7645
+Enfield,,,Enfield Reading Center,111 E. Main St.,,(618) 963-2787
+Erie,http://eriepubliclibrary.org,,Erie Public Library District,802 8th Avenue,61250,(309) 659-2707
+Eureka,http://www.eurekapl.org,,Eureka Public Library District,202 South Main Street,61530,(309) 467-2922
+Evanston,http://www.epl.org,,Evanston Public Library,1703 Orrington Avenue,60201,(847) 448-8600
+Evanston,,,North Branch,2026 Central Street,,(847) 866-0330
+Evanston,,,South Branch,949 Chicago Avenue,,(847) 866-0333
+Evansville,,,Central Public Library District,701 Oak Street A,62242,(618) 853-4081
+Evansville,,,Evansville Public Library,602 Public Street,62242,(618) 853-4067
+Evergreen Park,http://www.evergreenparklibrary.org,,Evergreen Park Public Library,9400 South Troy Avenue,60805,(708) 422-8522
+Fairbury,http://www.fairbury.lib.il.us,,Dominy Memorial Library,201 South Third Street,61739,(815) 692-3231
+Fairfield,http://www.sirin.lib.il.us,,Fairfield Public Library,300 South East Second Street,62837,(618) 842-4516
+Fairmount,,,Vance Township Library,107 South Main Street,61841,(217) 733-2164
+Fairview,,,Valley District Library,515 Carter Street,61432,(309) 778-2240
+Fairview Heights,http://www.fairviewheightslibrary.org,,Fairview Heights Public Library,10017 Bunkum Road,62208,(618) 489-2070
+Farmer City,,,Farmer City Public Library,109 East Green Street,61842,(309) 928-9532
+Farmersville,,,Farmersville-Waggoner Public Library District,210 South Cleveland Street,62533,(217) 227-3711
+Farmington,http://www.farmingtonpublic.org,,Farmington Area Library District,266 East Fort Street,61531,(309) 245-2175
+Flat Rock,,,Susie Wesley Memorial Library,105 South Main St.,,(618) 584-3636
+Flora,http://www.florapubliclibrary.org,,Flora Public Library,216 North Main Street,62839,(618) 662-6553
+Flossmoor,http://www.flossmoorlibrary.org/,,Flossmoor Public Library,1000 Sterling Avenue,60422,(708) 798-3600
+Ford Heights,,,Ford Heights Public Library District,800 East 14th Street,,(708) 757-0551
+Forest Park,http://www.forestparkpubliclibrary.org,,Forest Park Public Library,7555 Jackson Boulevard,60130,(708) 366-7171
+Forrest,,,Forrest Public Library District,301 West James Street,61741,(815) 657-8805
+Forreston,http://www.forrestonlibrary.org,,Forreston Public Library,204 First Avenue,61030,(815) 938-2624
+Forsyth,http://forsythlibrary.com,,Forsyth Public Library,268 South Elwood Street,62535,(217) 877-8174
+Fox Lake,http://www.fllib.org,,Fox Lake Public Library District,255 East Grand Avenue,60020,(847) 587-0198
+Fox River Grove,http://www.frgml.lib.il.us,,Fox River Grove Public Library District,407 Lincoln Avenue,60021,(847) 639-2274
+Frankfort,http://frankfortlibrary.org,,Frankfort Public Library District,21119 South Pfeiffer Road,60423,(815) 469-2423
+Franklin Grove,http://www.franklingrovelibrary.org/,,Franklin Grove Public Library,112 South Elm Street,61031,(815) 456-2823
+Franklin Grove,http://www.franklingrovelibrary.org/,,Winifred Knox Memorial Library,112 S. Elm St.,,(815) 456-2823
+Franklin Park,http://www.franklinparklibrary.org,,Franklin Park Public Library District,10311 Grand Avenue,60131,(847) 455-6016
+Freeburg,http://www.freeburg.lib.il.us,,Freeburg Area Library District,407 South Belleville Street,62243,(618) 539-5454
+Freeport,http://www.freeportpubliclibrary.org,,Freeport Public Library,100 East Douglas Street,61032,(815) 233-3000
+Fulton,http://schmaling.lib.il.us,,Schmaling Memorial Public Library District,501 Tenth Avenue,61252,(815) 589-2045
+Galatia,,,Galatia Public Library District,217 South Main Cross Street,62935,(618) 268-9200
+Galena,http://www.galenalibrary.org,,Galena Public Library District,601 South Bench Street,61036,(815) 777-0200
+Galesburg,http://www.galesburglibrary.org,,Galesburg Public Library,40 East Simmons Street,61401,(309) 343-6118
+Galva,http://www.galvalibrary.org,,Galva Public Library District,120 Northwest Third Avenue,61434,(309) 932-2180
+Geneseo,http://geneseo.lib.il.us,,Geneseo Public Library District,218 South State Street,61254,(309) 944-6452
+Geneva,http://www.geneva.lib.il.us,,Geneva Public Library District,127 James Street,60134,(630) 232-0780
+Genoa,http://www.genoalibrary.org,,Genoa Public Library District,232 West Main Street,60135,(815) 784-2627
+Georgetown,http://www.ltls.org/gen.html,,Georgetown Public Library,102 West West Street,61846,(217) 662-2164
+Germantown,http://www.germantownil.com/library.htm,,Germantown Public Library District,403 Munster Street,62245,(618) 523-4820
+Gibson City,http://www.moyer.lib.il.us,,Moyer District Library,307 North Sangamon Avenue,60936,(217) 784-5343
+Gillespie,,,Gillespie Public Library,201 West Chestnut Street,62033,(217) 839-3614
+Gilman,,,Gilman-Danforth District Library,715 North Maple Street,60938,(815) 265-7522
+Gilson,,,Gilson Branch,1261 Harding Street,,(309) 876-2300
+Girard,,,Girard Township Library,201 West Madison Street,62640,(217) 627-2414
+Glen Carbon,http://www.glencarbonlibrary.org,,Glen Carbon Centennial Library,198 South Main Street,62034,(618) 288-1212
+Glen Ellyn,http://www.gepl.org,,Glen Ellyn Public Library,400 Duane Street,60137,(630) 469-0879
+Glencoe,http://www.glencoepubliclibrary.org,,Glencoe Public Library,320 Park Avenue,60022,(847) 835-5056
+Glendale Heights,,,Glenside Public Library District,25 East Fullerton Avenue,60139,(630) 260-1550
+Glenview,http://www.glenviewpl.org,,Glenview Public Library,1930 Glenview Road,60025,(847) 729-7500
+Glenwood,http://www.glpld.org,,Glenwood-Lynwood Public Library District,320 East Glenwood Lansing Road,60425,(708) 758-0090
+Golconda,,,Golconda Public Library,126 West Main Street,62938,(618) 683-6531
+Golden,,,Golden Branch,309 Quincy,,(217) 696-2428
+Grand Tower,,,Grand Tower Public Library,111 Walnut Street,62942,(618) 565-2181
+Granite City,,,Granite City Branch,2145 Johnson Road,,
+Granite City,http://www.sixmilerld.org,,Six Mile Regional Library District,2001 Delmar Avenue,62040,(618) 452-6238
+Grant Park,http://grantpark.lib.il.us,,Grant Park Public Library,107 West Taylor Street,60940,(815) 465-6047
+Granville,,,Granville Branch Library,212 S. Mccoy Street,,(815) 339-2480
+Grayslake,http://www.grayslake.info,,Grayslake Area Public Library District,100 Library Lane,60030,(847) 223-5313
+Grayville,,,Grayville Carnegie Public Library,110 West Mill Street,62844,(618) 375-7121
+Greenfield,http://www.greenfieldpl.org,,Greenfield Public Library,515 Chestnut Street,62044,(217) 368-2613
+Greenup,http://www.greenup.lib.il.us,,Greenup Township Public Library,101 North Franklin Street,62428,(217) 923-3616
+Greenville,,,Greenville Public Library,414 West Main Street,62246,(618) 664-3115
+Gridley,http://www.gridleylibrary.org,,Gridley Public Library District,320 Center Street,61744,(309) 747-2284
+Griggsville,,,Griggsville Public Library,119 South Corey Street,62340,(217) 833-2633
+Gurnee,http://www.wnpl.info,,Warren-Newport Public Library District,224 North Oplaine Road,60031,(847) 244-5150
+Hamilton,,,Hamilton Public Library,861 Broadway,62341,(217) 847-2219
+Hammond,,,Hammond Branch,1st Don Ryan Street,,(217) 262-3323
+Hampshire,http://www.ellajohnsonlibrary.org,,Ella Johnson Memorial Public Library District,109 South State Street,60140,(847) 683-4490
+Hanover,http://www.hanover-il.com/library/,,Hanover Township Library,204 Jefferson Street,61041,(815) 591-3517
+Hanover Park,,,Hanover Park Branch Library,1570 Irving Park Road,,(630) 372-7800
+Hanover Park,,,Poplar Creek Hanover Park,4300 Audrey Lane,,(630) 372-0052
+Harrisburg,http://www.harrisburg.lib.il.us/,,Harrisburg Public Library District,2 West Walnut Street,,(618) 253-7455
+Harrisburg,http://www.harrisburg.lib.il.us,,Harrisburg Public Library District,2 West Walnut Street,62946,(618) 253-7455
+Hartford,,,Hartford Public Library District,143 West Hawthorne Street,62048,(618) 254-9394
+Harvard,http://www.harvard-diggins.org,,Harvard Diggins Library,900 East Mckinley Street,60033,(815) 943-4671
+Harvey,http://www.harvey.lib.il.us,,Harvey Public Library District,15441 Turlington Avenue,60426,(708) 331-0757
+Harwood Heights,http://www.eisenhowerlibrary.org/,,Eisenhower Public Library District,4613 North Oketo Avenue,60706,(708) 867-7828
+Havana,http://www.havana.lib.il.us,,Havana Public Library District,201 West Adams Street,62644,(309) 543-4701
+Hazel Crest,http://www.grandeprairie.org,,Grande Prairie Public Library District,3479 West 183rd Street,60429,(708) 798-5563
+Hecker,,,Hecker Public Library,151 West Monroe Street,62248,(618) 473-3022
+Hennepin,,,Hennepin Headquarters,214 N. Fourth Street,,(815) 925-7020
+Hennepin,http://putnamcountylibrary.org,,Putnam County Public Library District,214 North Fourth Street,61327,(815) 925-7020
+Henry,http://www.henry.lib.il.us,,Henry Public Library,702 Front Street,61537,(309) 364-2516
+Herrick,,,Herrick Township Public Library,303 North Broadway Street,62431,(618) 428-5223
+Herrin,http://www.herrin.lib.il.us,,Herrin City Library,120 North 13th Street,62948,(618) 942-6109
+Heyworth,,,Heyworth Public Library District,119 East Main Street,61745,(309) 473-2313
+Highland,,,Louis Latzer Memorial Public Library,1001 Ninth Street,62249,(618) 654-5066
+Highland Park,http://www.hplibrary.org,,Highland Park Public Library,494 Laurel Avenue,60035,(847) 432-0216
+Highwood,,,Highwood Public Library,102 Highwood Avenue,60040,(847) 432-5404
+Hillsboro,http://www.hillsborolibrary.org,,Hillsboro Public Library,214 School Street,62049,(217) 532-3055
+Hillsdale,http://hillsdale.lib.il.us,,Moore Memorial Library District,509 Main Street,61257,(309) 658-2666
+Hillside,http://www.hillsidelibrary.org,,Hillside Public Library,405 North Hillside Avenue,60162,(708) 449-7510
+Hinckley,http://www.hinckley.lib.il.us,,Hinckley Public Library District,100 North Maple Street,60520,(815) 286-3220
+Hinsdale,http://www.hinsdalelibrary.info,,Hinsdale Public Library,20 East Maple Street,60521,(630) 986-1976
+Hodgkins,http://www.hodgkinslibrary.org,,Hodgkins Public Library District,6500 Wenz Avenue,60525,(708) 579-1844
+Hoffman,,,Hoffman Area Branch Library,100 N. Broadway,,(618) 495-9955
+Hoffman Estates,,,Hoffman Estates Branch Library,1550 Hassell Road,,(847) 885-3511
+Homer,http://homerillinois.blogspot.com,,Homer Community Library,500 East Second Street,61849,(217) 896-2121
+Homer Glen,http://www.homerlibrary.org,,Homer Township Public Library District,14320 West 151st Street,60491,(708) 301-7908
+Hometown,,,Hometown Public Library,4331 Southwest Highway,60456,(708) 636-0997
+Homewood,http://www.homewoodlibrary.org,,Homewood Public Library District,17917 Dixie Highway,60430,(708) 798-0121
+Hoopeston,http://hooplib.org,,Hoopeston Public Library District,110 North Fourth Street,60942,(217) 283-6711
+Hopkins Park,,,Pembroke Public Library District,13795 East Central Street,60944,(815) 944-8609
+Hudson,http://www.hudsonarealibrary.com,,Hudson Area Public Library District,104 Pearl Street,61748,(309) 726-1103
+Hull,,,Kinderhook Township Public Library District,665 Southwest Lee Evans Drive,62343,(217) 432-1030
+Huntley,http://www.huntleylibrary.org,,Huntley Area Public Library District,11000 Ruth Road,60142,(847) 669-5386
+Hutsonville,,,Hutsonville Public Library,"104 South Main,",,(618) 563-9603
+Illiopolis,http://www.illiopolisniantic.lib.il.us,,Illiopolis-Niantic Public Library District,401 Sixth And Mary Street,62539,(217) 486-5561
+Irvington,,,Irvington Branch Library,500 Superior,,(618) 249-8243
+Itasca,http://www.itascalibrary.org,,Itasca Community Library,500 West Irving Park Road,60143,(630) 773-1699
+Jacksonville,http://www.jaxpl.org,,Jacksonville Public Library,201 West College Avenue,62650,(217) 243-5435
+Jerseyville,http://www.jerseyvillelibrary.org,,Jerseyville Public Library,105 North Liberty Street,62052,(618) 498-9514
+Johnsburg,http://www.johnsburglibrary.org,,Johnsburg Public Library District,3000 North Johnsburg Road,60051,(815) 344-0077
+Johnston City,,,Johnston City Public Library,506 Washington Avenue,62951,(618) 983-6359
+Joliet,,,Black Road Branch,3395 W. Black Road,,(815) 740-2660
+Joliet,http://www.joliet.lib.il.us,,Joliet Public Library,150 North Ottawa Street,60432,(815) 740-2660
+Joliet,,,Jpl West Outlet,1244 Louis Joliet Mall,,(815) 439-7279
+Jonesboro,,,Jonesboro Public Library,412 South Main Street,62952,(618) 833-8121
+Justice,http://justicepubliclibrary.com,,Justice Public Library District,7641 South Oak Grove Avenue,60458,(708) 496-1790
+Kaneville,http://www.kanevillelibrary.org,,Kaneville Public Library District,2 South 101 Harter Road,60144,(630) 557-2441
+Kankakee,http://lions-online.org,,Kankakee Public Library,201 East Merchant Street,60901,(815) 939-4564
+Kankakee,http://www.limestonelibrary.org,,Limestone Township Library,2701 West Tower Road,60901,(815) 939-1696
+Kansas,http://www.kansaslibrary.bravehost.net,,Kansas Community Memorial Library,107 North Front Street,61933,(217) 948-5484
+Kansas,,,Kansas Community Memorial Library,107 N. Front St.,,(217) 948-5484
+Kewanee,http://www.kewaneelibrary.org,,Kewanee Public Library District,102 South Tremont Street,61443,(309) 852-4505
+Kinmundy,,,Kinmundy Public Library,111 South Monroe Street,62854,(618) 547-3250
+Kirkland,http://www.geocities.com/kirklandlib,,Kirkland Public Library,513 West Main Street,60146,(815) 522-6260
+Kirkwood,,,Kirkwood Branch Library,134 South Kirk,,(309) 768-2173
+Knoxville,http://www.kvillepublib.org,,Knoxville Public Library,200 East Main Street,61448,(309) 289-2113
+La Salle,http://www.lasalle.lib.il.us,,Lasalle Public Library,305 Marquette Street,61301,(815) 223-2341
+Lacon,http://rsacat.alsrsa.org/rooms/portal/page/sirsi_home.psml?action=setuserprofile,,Lacon Public Library District,205 Sixth Street,61540,(309) 246-2855
+Ladd,http://www.laddlibrary.com,,Ladd Public Library District,125 North Main Street,61329,(815) 894-3254
+Ladd,,,Ladd Public Library District,125 N. Main St.,,(815) 894-3254
+Lafayette,,,Ira C. Reed Public Library,302 Commercial Street,61449,(309) 995-3042
+Lagrange,http://www.lagrangelibrary.org,,Lagrange Public Library,10 West Cossitt Avenue,60525,(708) 352-0576
+Lagrange Park,http://www.lplibrary.org,,Lagrange Park Public Library District,555 North La Grange Road,60526,(708) 352-0100
+Laharpe,http://www.laharpe.lib.il.us/library,,Laharpe Carnegie Public Library District,209 East Main Street,61450,(217) 659-7729
+Lake Bluff,http://www.lakeblufflibrary.org,,Lake Bluff Public Library,123 East Scranton Avenue,60044,(847) 234-2540
+Lake Forest,http://www.lakeforestlibrary.org,,Lake Forest Library,360 East Deerpath Road,60045,(847) 234-0636
+Lake Villa,http://www.lvdl.org,,Lake Villa Public Library District,1001 East Grand Avenue,60046,(847) 356-7711
+Lake Zurich,http://www.eapl.org,,Ela Area Public Library District,275 Mohawk Trail,60047,(847) 438-3433
+Lamoille,,,Lamoille-Clarion Public Library District,81 Main Street,61330,(815) 638-2356
+Lanark,,,Lanark Public Library,110 West Carroll Street,61046,(815) 493-2166
+Lanark,,,Lanark Public Library,110 W Carroll St,,(815) 493-2166
+Lansing,http://www.lansing.lib.il.us,,Lansing Public Library,2750 Indiana Avenue,60438,(708) 474-2447
+Lawrenceville,http://www.lawpubliclibrary.org,,Lawrence Public Library District,814 Twelfth Street,62439,(618) 943-3016
+Leaf River,http://bertoletmemorial.homestead.com/bertolet1.html,,Bertolet Memorial Library District,705 Main Street,61047,(815) 738-2742
+Lebanon,http://www.lebanon.lib.il.us,,Lebanon Public Library,314 West Saint Louis Street,62254,(618) 537-4504
+Lemont,http://www.lemontlibrary.org,,Lemont Public Library District,50 East Wend Street,60439,(630) 257-6541
+Lena,,,Lena Community District Library,300 West Mason Street,61048,(815) 369-3180
+Lewistown,,,Lewistown Carnegie Public Library District,321 West Lincoln Avenue,61542,(309) 547-2860
+Lexington,http://www.lexington.lib.il.us,,Lexington Public Library District,207 South Cedar Street,61753,(309) 365-7801
+Libertyville,http://www.cooklib.org,,Cook Memorial Public Library District,413 North Milwaukee Avenue,60048,(847) 362-2330
+Lincoln,http://www.lincolnpubliclibrary.org/,,Lincoln Public Library,725 Pekin St.,,(217) 732-8878
+Lincoln,http://www.lincolnpubliclibrary.org,,Lincoln Public Library District,725 Pekin Street,62656,(217) 732-8878
+Lincolnshire,http://www.vapld.info,,Vernon Area Public Library District,300 Olde Half Day Road,60069,(847) 634-3650
+Lincolnshire,,,Vernon Area Public Library District,300 Olde Half Day Road,,(847) 634-3650
+Lincolnwood,http://www.lincolnwoodlibrary.org,,Lincolnwood Public Library District,4000 West Pratt Avenue,60712,(847) 677-5277
+Lisle,http://www.lislelibrary.org,,Lisle Library District,777 Front Street,60532,(630) 971-1675
+Litchfield,http://www.litchfieldpubliclibrary.org,,Litchfield Carnegie Public Library,400 North State Street,62056,(217) 324-3866
+Littleton,,,Littleton Branch,110 Center St,,(309) 257-2202
+Lockport,http://www.whiteoaklibrary.org,,Lockport Branch Library,121 East Eighth Street,60441,(815) 838-0755
+Lockport,http://www.whiteoaklibrary.org,,White Oak Library District,121 East Eighth Street,60441,(815) 838-0755
+Loda,,,A. Herr Smith E.E. Smith Library,105 East Adams,60948,(217) 386-2783
+Logan,,,Logan Reading Center,6342 Main Street,,(618) 435-4234
+Lombard,http://plum.lib.il.us,,Helen M. Plum Memorial Library,110 West Maple Street,60148,(630) 627-0316
+Lostant,http://lostant.lib.il.us,,Lostant Community Library,102 West Third Street,61334,(815) 368-3530
+Loves Park,http://www.northsuburbanlibrary.org,,North Suburban Public Library District,6340 North Second Street,61111,(815) 633-4247
+Lovington,http://lovington.lib.il.us,,Lovington Public Library District,110 West State Street,61937,(217) 873-4468
+Lyons,http://www.lyonslibrary.org,,Lyons Public Library,4209 Joliet Avenue,60534,(708) 447-3577
+Mackinaw,,,Mackinaw District Public Library,117 South Main Street,61755,(309) 359-8022
+Macomb,http://www.macomb.lib.il.us,,Macomb Public Library District,235 South Lafayette Street,61455,(309) 833-2714
+Macon,http://southmacon.lib.il.us,,South Macon Public Library District,451 West Glenn Street,62544,(217) 764-3356
+Madison,,,Madison Public Library,1700 Fifth Street,62060,(618) 876-8448
+Magnolia,,,Magnolia Branch,114 N. Chicago Street,,(815) 869-3038
+Mahomet,http://www.mahometpubliclibrary.org,,Mahomet Public Library District,512 East Main Street,61853,(217) 586-2611
+Malta,http://maltalibrary.org,,Malta Township Public Library,203 East Adams,60150,(815) 825-2525
+Manhattan,http://www.mpld.org,,Manhattan Public Library District,240 Whitson Street,60442,(815) 478-3987
+Manito,,,Forman Valley Public Library District,404 1-2 South Harrison Street,61546,(309) 968-6093
+Manito,,,Manito Public Library District,404 1-2 S. Harrison,,(309) 968-6093
+Mansfield,,,Blue Ridge Township Public Library,101 West Oliver Street,61854,(217) 489-9033
+Manteno,http://www.manteno.lib.il.us,,Manteno Public Library District,50 West Division Street,60950,(815) 468-3323
+Maple Park,http://maplepark.lib.il.us,,Maple Park Public Library District,302 Willow Street,60151,(815) 827-3362
+Maquon,,,Maquon Public Library District,210 Main Street,61458,(309) 875-3573
+Marengo,http://www.muld.org,,Marengo Public Library District,200 South State Street,60152,(815) 568-8236
+Marion,http://www.craborchard.lib.il.us,,Crab Orchard Public Library District,20012 Crab Orchard Road,62959,(618) 982-2141
+Marion,http://www.marioncarnegielibrary.org,,Marion Carnegie Library,206 South Market Street,62959,(618) 993-5935
+Marissa,http://www.marissa.lib.il.us,,Marissa Area Public Library District,212 North Main Street,62257,(618) 295-2825
+Markham,http://www.markhamlibrary.org,,Bradford Anderson Oglesby Public Library,16640 South Kedzie Avenue,60428,(708) 331-0130
+Maroa,http://maroa.lib.il.us,,Maroa Public Library District,305 East Garfield Street,61756,(217) 794-5111
+Marquette Heights,http://www.mhlibrary.com,,Marquette Heights Public Library,715 Lincoln Road,61554,(309) 382-3778
+Marseilles,http://marseilleslibrary.com,,Marseilles Public Library,155 East Bluff Street,61341,(815) 795-4437
+Marshall,http://www.marshallillibrary.com,,Marshall Public Library,612 Archer Avenue,62441,(217) 826-2535
+Marshall,,,Marshall Public Library,612 Archer Avenue,,(217) 826-2535
+Martinsville,,,Martinsville Public Library District,120 East Cumberland Street,62442,(217) 382-4113
+Maryville,http://www.maryville.lib.il.us,,Maryville Community Library District,8 Schiber Court,62062,(618) 288-3801
+Mascoutah,http://www.mascoutah.lib.il.us,,Mascoutah Public Library,3 West Church Street,62258,(618) 566-2562
+Mason City,http://masoncitylibrary.org,,Mason City Public Library District,820 West Chestnut Street,62664,(217) 482-3799
+Matherville,,,Matherville Branch,1376 252nd Street,,(309) 754-8244
+Matteson,http://www.mattesonpubliclibrary.org,,Matteson Public Library,801 South School Avenue,60443,(708) 748-4431
+Mattoon,http://mattoonlibrary.org,,Mattoon Public Library,1600 Charleston Avenue,61938,(217) 234-2621
+Maywood,http://www.maywoodlibrary.org,,Maywood Public Library District,121 South Fifth Avenue,60153,(708) 343-1847
+Mccook,http://www.mccook.lib.il.us,,Mccook Public Library District,8419 West 50th Street,60525,(708) 442-1242
+Mchenry,http://www.nundalibrary.org,,Mchenry Nunda Public Library District,813 West Il Route 120,60051,(815) 385-6303
+Mchenry,http://www.mchenrylibrary.org,,Mchenry Public Library District,809 North Front Street,60050,(815) 385-0036
+Mclean,http://geocities.com/mhfglibrary,,Mount Hope-Funks Grove Townships Public Library District,111 South Hamilton Street,61754,(309) 874-2291
+Mcleansboro,,,Mccoy Memorial Library,118 South Washington Street,62859,(618) 643-2125
+Mcnabb,,,Mcnabb Branch Library,322. W. Main,,(815) 882-2378
+Melrose Park,http://www.melroseparklibrary.org,,Melrose Park Public Library,801 North Broadway Street,60160,(708) 343-3391
+Melvin,,,Melvin Public Library,102 South Center Street,60952,(217) 388-2421
+Mendon,http://www.fourstar.lib.il.us,,Four Star Public Library District,132 West South Street,62351,(217) 936-2131
+Mendota,http://www.graveshume.lib.il.us,,Graves-Hume Public Library District,1401 West Main Street,61342,(815) 538-5142
+Meredosia,,,M-C River Valley Public Library District,304 Main Street,62665,(217) 584-1571
+Metamora,,,Germantown Hills Branch,101 Warrior Way,,(309) 383-2263
+Metamora,http://www.ipdpl.org,,Illinois Prairie District Public Library,208 East Partridge Street,61548,(309) 367-4594
+Metropolis,http://www.metropolis.lib.il.us,,Metropolis Public Library,317 Metropolis Street,62960,(618) 524-4312
+Midlothian,http://www.midlothianlibrary.org,,Midlothian Public Library,14701 South Kenton Avenue,60445,(708) 535-2027
+Milan,,,Coyne Center Branch,11310 16th Street,,(309) 787-1512
+Milford,,,Milford District Library,2 South Grant Avenue,60953,(815) 889-4722
+Milledgeville,,,Wysox Township Public Library,18 West Fifth Street,61051,(815) 225-7572
+Millstadt,,,Millstadt Library,115 West Laurel Street,62260,(618) 476-1887
+Mineral,,,Mineral-Gold Public Library District,120 East Main Street,61344,(309) 288-3971
+Minier,,,H.A. Peine District Library,202 North Main Street,61759,(309) 392-3220
+Minonk,,,Filger Public Library,261 East Fifth Street,61760,(309) 432-2929
+Minooka,http://www.trpld.org,,Minooka Branch,109 N Wabena St,,(815) 467-1600
+Mokena,http://www.mokena.lib.il.us/,,Mokena Community Public Library District,11327 West 195th Street,60448,(708) 479-9663
+Moline,http://www.molinelibrary.com,,Moline Public Library,3210 41st Street,61265,(309) 762-6883
+Moline,,,Southeast Library,504 - 17th Street,,(309) 762-6883
+Momence,http://edwardchipman.lib.il.us,,Edward Chipman Public Library,126 North Locust Street,60954,(815) 472-2581
+Monmouth,http://www.wcplibrary.org,,Warren County Public Library District,62 Public Square,61462,(309) 734-3166
+Monticello,http://monticellolibrary.org/,,Allerton Public Library,201 N. State Street,,(217) 762-4676
+Monticello,http://www.monticellolibrary.org,,Monticello Township Library,201 North State Street,61856,(217) 762-4676
+Morris,http://www.morrislibrary.com,,Morris Area Public Library District,604 Liberty Street,60450,(815) 942-6880
+Morrison,http://www.odell.lib.il.us,,Odell Public Library,307 South Madison Street,61270,(815) 772-7323
+Morrisonville,http://www.morrisonville.lib.il.us,,Kitchell Memorial Library,300 South East 5th Street,62546,(217) 526-4553
+Morton,http://www.mortonlibrary.org,,Morton Public Library District,315 West Pershing Street,61550,(309) 263-2200
+Morton Grove,http://www.webrary.org,,Morton Grove Public Library,6140 Lincoln Avenue,60053,(847) 965-4220
+Mound City,,,Mound City Public Library,224 High Street,62963,(618) 748-9427
+Mounds,,,Mounds Public Library,418 First Street,62964,(618) 745-6610
+Mount Carmel,http://www.sirin.lib.il.us/docs/mcp/docs/lib/index.html,,Mount Carmel Public Library,727 North Mulberry Street,62863,(618) 263-3531
+Mount Carroll,http://www.mountcarrollpubliclibrary.org,,Mount Carroll Township Public Library,208 North Main Street,61053,(815) 244-1751
+Mount Morris,http://www.mtmorris-il.org,,Mount Morris Public Library,105 South Mckendrie Avenue,61054,(815) 734-4927
+Mount Olive,http://www.mtolivepubliclibrary.org,,Mount Olive Public Library,100 North Plum Street,62069,(217) 999-7311
+Mount Prospect,http://www.mppl.org,,Mount Prospect Public Library,10 South Emerson Street,60056,(847) 253-5675
+Mount Pulaski,,,Mount Pulaski Public Library District,320 North Washington Street,62548,(217) 792-5919
+Mount Sterling,,,Brown County Public Library District,143 West Main Street,62353,(217) 773-2013
+Mount Vernon,http://www.mtvbrehm.lib.il.us,,C.E. Brehm Memorial Public Library District,101 South Seventh Street,62864,(618) 242-6322
+Mount Zion,http://www.mtzion.lib.il.us,,Mount Zion Public Library District,115 West Main Street,62549,(217) 864-3622
+Moweaqua,http://www.moweaqua.lib.il.us,,Moweaqua Public Library District,600 North Putnam Street,62550,(217) 768-4700
+Moweaqua,,,Moweaqua Public Library District,122 North Main St,,(217) 768-4700
+Mundelein,http://www.fremontlibrary.org,,Fremont Public Library District,1170 North Midlothian Road,60060,(847) 566-8702
+Murphysboro,http://www.murphysboro.lib.il.us,,Sallie Logan Public Library,1808 Walnut Street,62966,(618) 684-3271
+Naperville,,,95th Street Library (Nsl),3015 Cedar Glade Dr.,,(630) 961-4100
+Naperville,,,Naper Boulevard Library,2035 S. Naper Blvd.,,(630) 961-4100
+Naperville,http://www.naperville-lib.org,http://calendar.naperville-lib.org/evanced/lib/eventsxml.asp?ag=&et=&lib=ALL&nd=100,Naperville Public Library,200 West Jefferson Avenue,60540,(630) 961-4100
+Naperville,,,Nichols Library,200 W. Jefferson Ave.,,(630) 961-4100
+Nashville,http://www.nashville.lib.il.us,,Nashville Public Library,219 East Elm Street,62263,(618) 327-3827
+Nauvoo,http://www.nauvoo.lib.il.us/,,Nauvoo Public Library,1270 Mulholland Street,62354,(217) 453-2707
+Neoga,,,Neoga Public Library District,550 Chestnut Avenue,62447,(217) 895-3944
+Neponset,,,Neponset Public Library,201 West Commerical Street,61345,(309) 594-2204
+New Athens,,,New Athens District Library,201 North Van Buren Street,62264,(618) 475-3255
+New Baden,http://www.newbaden.lib.il.us,,New Baden Public Library,210 North First Street,62265,(618) 588-4554
+New Berlin,,,West Sangamon Public Library District,103 East Illinois Street,62670,(217) 488-7733
+New Lenox,http://www.newlenoxlibrary.org,http://newlenoxlibrary.evanced.info/eventsxml.asp?ag=&et=&lib=0&nd=100,New Lenox Public Library District,120 Veterans Parkway,60451,(815) 485-2605
+New Windsor,,,New Windsor Public Library District,412 Main Street,61465,(309) 667-2515
+Newark,http://www.cbplib.us,,Charles B. Phillips Public Library District,6 North Jackson Street,60541,(815) 695-5851
+Newman,http://www.newmanregionallibrary.org,,Newman Regional Library District,108 West Yates Street,61942,(217) 837-2412
+Newton,,,Newton Public Library District,100 South Van Buren Street,62448,(618) 783-8141
+Niles,http://www.nileslibrary.org,http://www.nileslibrary.org/evanced/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Niles Public Library District,6960 Oakton Street,60714,(847) 663-1234
+Nokomis,,,Nokomis Public Library,22 South Cedar Street,62075,(217) 563-2734
+Normal,http://www.normal-library.org,,Normal Public Library,206 West College Avenue,61761,(309) 452-1757
+Norris City,,,Norris City Memorial Public Library District,603 South Division Street,62869,(618) 378-3713
+North Aurora,http://www.messengerpl.org,http://host6.evanced.info/messenger/evanced/eventsxml.asp?ag=&et=&lib=0&nd=100,Messenger Public Library Of North Aurora,113 Oak Street,60542,(630) 896-0240
+North Chicago,http://www.ncplibrary.org,,North Chicago Public Library,2100 Argonne Drive,60064,(847) 689-0125
+North Riverside,http://www.northriversidelibrary.org/,,North Riverside Public Library District,2400 South Des Plaines Avenue,60546,(708) 447-0869
+Northbrook,http://www.northbrook.info,,Northbrook Public Library,1201 Cedar Lane,60062,(847) 272-6224
+Northfield,,,Northfield Branch,1785 Orchard Lane,,(847) 446-5990
+Northlake,http://www.northlakelibrary.org,http://www.eventkeeper.com/ekfeed/NORTHLAKE_PLDEvents.xml,Northlake Public Library District,231 North Wolf Road,60164,(708) 562-2301
+Oak Brook,http://www.oak-brook.lib.il.us,,Oak Brook Public Library,600 Oak Brook Road,60523,(630) 368-7700
+Oak Forest,http://www.acornlibrary.org,,Acorn Public Library District,15624 South Central Avenue,60452,(708) 687-3700
+Oak Lawn,http://www.oaklawnlibrary.org,,Oak Lawn Public Library,9427 South Raymond Avenue,60453,(708) 422-4990
+Oak Park,,,Dole Branch Library,255 Augusta,,(708) 386-9032
+Oak Park,,,Maze Branch Library,845 South Gunderson,,(708) 386-4751
+Oak Park,http://www.oppl.org,,Oak Park Public Library,834 Lake Street,60301,(708) 383-8200
+Oakwood,,,Oakwood Public Library District,110 East Finley Street,61858,(217) 354-4777
+Oblong,,,Oblong Public Library,110 East Main Street,,(618) 592-3001
+Odell,http://www.odelllibrary.com,,Odell Public Library District,301 East Richard Street,60460,(815) 998-2012
+Ofallon,http://www.ofallonlibrary.org,,Ofallon Public Library,120 Civic Plaza,62269,(618) 632-3783
+Ogden,http://home.comcast.net/~roselibrary/,,Ogden Rose Public Library,103 West Main Street,61859,(217) 582-2411
+Oglesby,http://oglesby.lib.il.us,,Oglesby Public Library District,111 South Woodland Avenue,61348,(815) 883-3619
+Ohio,,,Ohio Public Library District,112 North Main Street,61349,(815) 376-5422
+Olive Branch,,,Dodge Memorial Public Library District,22440 Railroad Street,62969,(618) 776-5115
+Olmsted,,,Olmsted Public Library,160 North Front Street,62970,(618) 742-8296
+Olney,http://www.olney.lib.il.us,,Olney Public Library,400 West Main Street,62450,(618) 392-3711
+Onarga,,,Onarga Community Public Library District,209 West Seminary Avenue,60955,(815) 268-7626
+Oneida,,,Greig Memorial Library,110 South Joy Street,61467,(309) 483-3482
+Oneida,,,Oneida Greig Memorial Library,110 S. Joy Street,,(309) 483-3482
+Oreana,http://www.chipublib.org/branch/details/library/oriole-park/,,Oreana Public Library,214 E. South,,(217) 468-2340
+Oregon,http://oregon.lib.il.us,,Oregon Public Library District,300 Jefferson Street,61061,(815) 732-2724
+Orion,http://westerndistrictlibrary.org,,Western District Library,1111 Fourth Street,61273,(309) 526-8375
+Orland Park,http://www.orlandparklibrary.org,http://calendar.orlandparklibrary.org/evanced/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Orland Park Public Library,14921 South Ravinia Avenue,60462,(708) 428-5100
+Oswego,http://www.oswego.lib.il.us,http://www.oswego.lib.il.us/evanced/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Oswego Public Library District,32 West Jefferson Street,60543,(630) 554-3150
+Ottawa,http://www.reddicklibrary.org,,Reddick Public Library District,1010 Canal Street,61350,(815) 434-0509
+Palatine,http://www.palatinelibrary.org,,Palatine Public Library District,700 North North Court,60067,(847) 358-5881
+Palatine,,,Rand Road Branch,1585 Rand Road,,(847) 202-1194
+Palestine,http://www.palestinelibrary.org,,Palestine Public Library District,116 South Main Street,62451,(618) 586-5317
+Palos Heights,http://www.palosheightslibrary.org,https://il.evanced.info/palosheights/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Palos Heights Public Library,12501 South 71st Avenue,60463,(708) 448-1473
+Palos Hills,http://www.greenhills.lib.il.us,,Green Hills Public Library District,8611 West 103rd Street,60465,(708) 598-8446
+Palos Park,http://www.palosparklibrary.org,http://www.localendar.com/public/Library123?style=M3,Palos Park Public Library,12330 South Forest Glen Boulevard,60464,(708) 448-1530
+Pana,,,Carnegie-Schuyler Library,303 East Second Street,62557,(217) 562-2326
+Paris,http://www.parispubliclibrary.org,,Paris Carnegie Public Library,207 South Main Street,61944,(217) 463-3950
+Park Forest,http://www.pfpl.org,http://il.evanced.info/pfpl/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Park Forest Public Library,400 Lakewood Boulevard,60466,(708) 748-3731
+Park Ridge,http://www.parkridgelibrary.org,http://schedule.parkridgelibrary.org/evanced/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Park Ridge Public Library,20 South Prospect Avenue,60068,(847) 825-3123
+Patoka,,,Patoka Public Library,210 West Bond Street,62875,(618) 432-5019
+Paw Paw,,,Paw Paw Public Library District,362 Chicago Road,61353,(815) 627-9396
+Pawnee,http://www.pawneepubliclibrary.org,,Pawnee Public Library,613 Douglas Street,62558,(217) 625-7716
+Paxton,http://www.paxtonlibrary.com,,Paxton Carnegie Library,254 South Market Street,60957,(217) 379-3431
+Pearl City,http://pearlcitylibrary.20m.com,,Pearl City Public Library District,221 South Main Street,61062,(815) 443-2832
+Pecatonica,http://www.pecatonica.lib.il.us.,,Pecatonica Public Library District,400 West Eleventh Street,61063,(815) 239-2616
+Pekin,http://www.pekinpubliclibrary.org,,Pekin Public Library,301 South Fourth Street,61554,(309) 347-7111
+Peoria,,,Lakeview Branch Library,1137 W. Lake Ave.,,(309) 497-2200
+Peoria,,,Lincoln Branch Library,1312 W. Lincoln Ave,,(309) 497-2600
+Peoria,,,Mcclure Branch Library,315 W. Mcclure Ave.,,(309) 497-2700
+Peoria,http://www.peoria.lib.il.us,,Peoria Public Library,107 Northeast Monroe Street,61602,(309) 497-2000
+Peoria,,,Riverwest Library,312 S. Merriman,,(309) 497-2080
+Peoria,,,South Side Library,2605 W. Krause Ave.,,(309) 497-2300
+Peoria Heights,http://www.peoriaheightslibrary.com,,Peoria Heights Public Library,816 East Glen Avenue,61616,(309) 682-5578
+Peotone,http://www.peotone.lib.il.us,,Peotone Public Library District,515 North First Street,60468,(708) 258-3436
+Percy,,,Percy Reading Center,307 West Pine,,(618) 497-8414
+Peru,http://www.perulibrary.org,,Peru Public Library,1409 Eleventh Street,61354,(815) 223-0229
+Petersburg,,,Petersburg Public Library,220 South Sixth Street,62675,(217) 632-2807
+Philo,,,Philo Public Library District,115 East Washington Street,61864,(217) 684-2896
+Pinckneyville,http://www.pinckneyville.lib.il.us/,,Pinckneyville Public Library,312 South Walnut Street,62274,(618) 357-2410
+Piper City,,,Piper City Public Library District,39 West Main Street,60959,(815) 686-9234
+Pittsburg,,,Pittsburg Branch Library,302 W. Avery St.,,(618) 997-8111
+Pittsfield,,,Pittsfield Public Library,205 North Memorial Street,62363,(217) 285-2200
+Plainfield,http://plainfield.lib.il.us,http://il.evanced.info/plainfield/evanced/eventsxml.asp?ag=&et=&lib=0&nd=100,Plainfield Public Library District,15025 South Illinois Street,60544,(815) 436-6639
+Plano,http://www.plano.lib.il.us,,Plano Community Library District,15 West North Street,60545,(630) 552-2009
+Pleasant Plains,,,Pleasant Plains Branch,555 Buckeye Rd,,(217) 626-1553
+Plymouth,,,Plymouth Branch,103 Main,,(309) 458-6616
+Polo,http://www.polo.lib.il.us,,Polo Public Library District,302 West Mason Street,61064,(815) 946-2713
+Pontiac,http://www.pontiacpubliclibrary.org,,Pontiac Public Library,211 East Madison Street,61764,(815) 844-7229
+Port Byron,http://rivervalleylibrary.org/,,River Valley District Library,214 South Main Street,61275,(309) 523-3440
+Princeton,http://www.matsonpubliclibrary.org/ppl/home/home.html,,Matson Public Library,15 Park Avenue West,,(815) 875-1331
+Princeton,http://www.princetonpl.org,,Princeton Public Library,698 East Peru Street,61356,(815) 875-1331
+Princeville,http://www.lmelibrary.org,,Lillie M. Evans Library District,207 North Walnut Avenue,61559,(309) 385-4540
+Prophetstown,http://www.prophetstown.lib.il.us,,Henry C. Adams Memorial Library,209 West Third Street,61277,(815) 537-5462
+Prospect Heights,http://www.phpl.info,http://www.phpl.info/evanced/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Prospect Heights Public Library District,12 North Elm Street,60070,(847) 259-3500
+Putnam,,,Putnam (Condit) Branch,105 W. Center Street,,(815) 437-2811
+Quincy,http://www.quincylibrary.org/,,Quincy Public Library,526 Jersey Street,62301,(217) 223-1309
+Quincy,,,York Street Branch,639 York Street,,(217) 592-3679
+Ramsey,,,Ramsey Public Library,401 South Superior Street,62080,(618) 423-2019
+Rantoul,http://www.rantoul.lib.il.us,,Rantoul Public Library,106 West Flessner Avenue,61866,(217) 893-3955
+Raymond,,,Doyle Public Library District,109 South Obannon Street,62560,(217) 229-4471
+Red Bud,,,Red Bud Public Library,925 South Main Street,62278,(618) 282-2255
+Richmond,http://www.nippersinklibrary.org,,Nippersink Public Library District,5418 Hill Road,60071,(815) 678-4014
+Richton Park,http://www.richtonparklibrary.org,,Richton Park Public Library District,4045 Sauk Trail,60471,(708) 481-5333
+Ridge Farm,,,Elwood Township Carnegie Library,104 North State Street,61870,(217) 247-2820
+River Forest,,,River Forest Public Library,735 Lathrop Avenue,60305,(708) 366-5205
+River Grove,http://www.rivergrovelibrary.org,,River Grove Public Library District,8638 West Grand Avenue,60171,(708) 453-4484
+Riverdale,http://www.riverdale.lib.il.us,,Riverdale Public Library District,208 West 144th Street,60827,(708) 841-3311
+Riverside,http://www.riversidelibrary.org,http://host5.evanced.info/riverside/evanced/eventsxml.asp?ag=&et=&lib=0&nd=100,Riverside Public Library,1 Burling Road,60546,(708) 442-6366
+Riverton,,,Riverton Village Library,1200 East Riverton Road,62561,(217) 629-6353
+Roanoke,,,Roanoke Branch,123 East Broad Street,,(309) 923-7686
+Robbins,,,William Leonard Public Library District,13820 Central Park Avenue,60472,(708) 597-2760
+Robinson,http://www.robinson.lib.il.us,,Robinson Public Library District,606 North Jefferson Street,62454,(618) 544-2917
+Rochelle,,,Flagg-Rochelle Public Library District,619 Fourth Avenue,61068,(815) 562-3431
+Rochester,http://www.rochesterlibrary.org,,Rochester Public Library District,1 Community Drive,62563,(217) 498-8454
+Rock Falls,http://www.rockfallslibrary.com,,Rock Falls Public Library District,1007 Seventh Avenue,61071,(815) 626-3958
+Rock Island,http://rockislandlibrary.org/,,Rock Island 30-31 Branch,3059 30th Street,,(309) 732-7369
+Rock Island,http://www.ripl.lib.il.us/,,Rock Island Public Library,401 Nineteenth Street,61201,(309) 732-7323
+Rock Island,,,Rock Island Southwest Branch,9010 Ridgewood Road,,(309) 732-7338
+Rockford,,,Lewis Lemon Branch,1988 West Jefferson Street,,(815) 962-4767
+Rockford,,,Montague Branch,1238 South Winnebago Street,,(815) 965-1912
+Rockford,,,Northeast Branch,320 North Alpine Road,,(815) 226-1533
+Rockford,,,Rock River Branch,3128 11th Street,,(815) 398-7514
+Rockford,http://www.rockfordpubliclibrary.org,,Rockford Public Library,215 North Wyman Street,61101,(815) 965-7606
+Rockford,,,Rockton Centre Branch,3114 North Rockton Avenue,,(815) 963-5617
+Rockton,http://talcottfreelibrary.com,,Talcott Free Library District,101 East Main Street,61072,(815) 624-7511
+Rolling Meadows,,,Biblioteca Del Centro,2268 Algonquin Road,,(847) 506-2060
+Rolling Meadows,http://www.rolling-meadows.lib.il.us,,Rolling Meadows Library,3110 Martin Lane,60008,(847) 259-6050
+Romeoville,http://www.whiteoaklibrary.org,,Romeoville Branch Library,201 West Normantown Road,,(815) 886-2030
+Roodhouse,http://roodhouselibrary.org,,Roodhouse Public Library,220 West Franklin Street,62082,(217) 589-5123
+Roscoe,,,North Suburban Library-Roscoe,5562 Cayton Circle,,(815) 623-6266
+Roselle,http://www.roselle.lib.il.us,http://evanced.roselle.lib.il.us/evanced/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Roselle Public Library District,40 South Park Street,60172,(630) 529-1641
+Roseville,,,Roseville Branch Library,145 West Penn,,(309) 426-2336
+Rosiclare,,,Rosiclare Memorial Public Library,po box 10,62982,(618) 285-6213
+Round Lake,http://www.rlalibrary.org,http://rlalibrary.evanced.info/eventsxml.asp?ag=&et=&lib=0&nd=100,Round Lake Area Public Library District,906 Hart Road,60073,(847) 546-7060
+Roxana,http://www.roxanalibrary.org,,Roxana Public Library District,200 North Central Avenue,62084,(618) 254-6713
+Royalton,,,Royalton Public Library District,305 South Dean Street,62983,(618) 984-4463
+Rushville,http://www.rushville.lib.il.us/library,,Rushville Public Library,104 North Monroe Street,62681,(217) 322-3030
+Saint Charles,http://www.stcharleslibrary.org,,Saint Charles Public Library District,,60174,(630) 584-0076
+Saint Elmo,,,St. Elmo Public Library District,311 West Cumberland Road,62458,(618) 829-5544
+Saint Joseph,,,St. Joseph Township-Swearingen Memorial Library,201 North Third Street,61873,(217) 469-2159
+Salem,http://www.salembbl.lib.il.us,,Bryan-Bennett Library,217 West Main Street,62881,(618) 548-7784
+Sandoval,,,Sandoval Branch Library,101 N. Broadway,,(618) 247-3873
+Sandwich,http://www.sandwich.lib.il.us,http://www.sandwich.lib.il.us/event/feed,Sandwich District Library,107 East Center Street,60548,(815) 786-8308
+Sauk Village,http://www.at-the-library.org,,Nancy L. Mcconathy Public Library District,21737 Jeffrey Avenue,60411,(708) 757-4771
+Savanna,,,Savanna Public Library District,326 Third Street,61074,(815) 273-3714
+Saybrook,,,Cheneys Grove Township Library,204 South State Street,61770,(309) 475-6131
+Schaumburg,http://www.stdl.org,http://programs.stdl.org/evanced/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Schaumburg Township District Library,130 South Roselle Road,60193,(847) 985-4000
+Schiller Park,http://www.schillerparklibrary.org,,Schiller Park Public Library,4200 Old River Road,60176,(847) 678-0433
+Seaton,,,Seaton Public Library District,201 Maple Street,61476,(309) 586-5341
+Seneca,,,Seneca Public Library District,210 North Main Street,61360,(815) 357-6566
+Sesser,,,Sesser Public Library,303 West Franklin Street,62884,(618) 625-6566
+Shabbona,,,Flewellin Memorial Library,108 West Comanche,60550,(815) 824-2079
+Shawneetown,http://shawneelink.net,,Shawneetown Public Library,320 North Lincoln Boulevard,62984,(618) 269-3761
+Sheffield,http://www.sheffield.lib.il.us/,,Sheffield Public Library,136 East Cook Street,61361,(815) 454-2628
+Shelbyville,http://shelbyville.lib.il.us,,Shelbyville Public Library,154 North Broadway Street,62565,(217) 774-4432
+Sheldon,,,Sheldon Public Library District,125 North Fifth Street,60966,(815) 429-3521
+Sheridan,http://robertrowe.lib.il.us,,Robert W. Rowe Public Library District,120 East Si Johnson Avenue,60551,(815) 496-2031
+Sherman,http://www.shermanlibrary.net,,Sherman Public Library District,2100 East Andrew Road,62684,(217) 496-2496
+Sherrard,http://www.sherrardlibrary.org,,Sherrard Public Library District,200 Fifth Avenue,61281,(309) 593-2178
+Shorewood,http://www.shorewood.lib.il.us,http://il.evanced.info/shorewood/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Shorewood-Troy Public Library District,650 Deerwood Drive,60404,(815) 725-1715
+Sidell,,,Sidell District Library,101 East Market Street,61876,(217) 288-9031
+Sidney,http://www.sidneylibrary.webs.com,,Sidney Community Library,221 South David Street,61877,(217) 688-2332
+Silvis,http://silvis.lib.il.us/,,Silvis Public Library,105 Eighth Street,61282,(309) 755-3393
+Skokie,http://www.skokielibrary.info,http://events.skokielibrary.info/evanced/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Skokie Public Library,5215 Oakton Street,60077,(847) 673-7774
+Smithton,,,Smithton Public Library District,109 South Main Street,62285,(618) 233-8057
+Somonauk,http://www.somonauklibrary.org,,Somonauk Public Library District,115 East Dekalb Street,60552,(815) 498-2440
+South Beloit,,,South Beloit Public Library,630 Blackhawk Boulevard,61080,(815) 389-2495
+South Holland,http://www.southhollandlibrary.org,,South Holland Public Library,16250 Wausau Avenue,60473,(708) 331-5262
+South Pekin,,,South Pekin Library,208 Main Street,61564,(309) 348-2446
+Sparta,http://www.sparta.lib.il.us,,Sparta Public Library,211 West Broadway,62286,(618) 443-5014
+Spring Valley,,,Richard A. Mautino Memorial Library,215 East Cleveland Street,61362,(815) 663-4741
+Springfield,http://www.lincolnlibrary.info,,Lincoln Library,326 South Seventh Street,62701,(217) 753-4900
+St. Charles,,,St. Charles Public Library District,1 South Sixth Ave.,,(630) 584-0076
+Standard,,,Standard Branch,128 First Street,,(815) 339-2471
+Stanford,,,Allin Township Library,116 West Main Street,61774,(309) 379-4631
+Staunton,,,Staunton Public Library,306 West Main Street,62088,(618) 635-3852
+Steeleville,,,Steeleville Area Public Library District,625 South Sparta Street,62288,(618) 965-9732
+Steger,http://www.ssch.lib.il.us,,Steger-South Chicago Heights Public Library District,54 East 31st Street,60475,(708) 755-5040
+Sterling,http://www.youseemore.com/sterling,,Sterling Public Library,102 West Third Street,61081,(815) 625-1370
+Stickney,http://www.sfvpld.org,,Stickney-Forest View Public Library District,6800 West 43rd Street,60402,(708) 749-1050
+Stillman Valley,http://www.juliahull.org,,Julia Hull District Library,100 Library Lane,61084,(815) 645-8611
+Stockton,http://www.stocktonlibrary.org/,,Stockton Township Public Library,140 West Benton Avenue,61085,(815) 947-2030
+Stonington,http://www.stonington.lib.il.us/,,Stonington Township Public Library,500 East North Street,62567,(217) 325-3512
+Streamwood,http://www.poplarcreek.lib.il.us,,Poplar Creek Public Library District,1405 South Park Avenue,60107,(630) 837-6800
+Streator,http://www.streatorpubliclibrary.org/,,Streator Public Library,130 South Park Street,61364,(815) 672-2729
+Sugar Grove,http://www.sugargrove.lib.il.us,,Sugar Grove Public Library District,54 Snow Street,60554,(630) 466-4686
+Sullivan,http://www.sullivanil.us/library.html,,Elizabeth Titus Memorial Library,2 West Water Street,61951,(217) 728-7221
+Summit,http://www.summitlibrary.info,,Summit Public Library District,6233 South Archer Road,60501,(708) 458-1545
+Sycamore,http://www.sycamorelibrary.org,,Sycamore Public Library,103 East State Street,60178,(815) 895-2500
+Taylorville,http://www.taylorville.lib.il.us,,Taylorville Public Library,121 West Vine Street,62568,(217) 824-4736
+Thomson,http://home.grics.net/~thomsonlib/,,York Township Public Library,1005 West Main Street,61285,(815) 259-2480
+Thornton,,,Thornton Public Library,115 East Margaret Street,60476,(708) 877-2579
+Tilden,,,Tilden Public Library,540 Pine Street,62292,(618) 587-2401
+Tinley Park,http://www.tplibrary.org,,Tinley Park Public Library,7851 Timber Drive,60477,(708) 532-0160
+Tiskilwa,http://tisklib.org,,Tiskilwa Public Library,119 East Main Street,61368,(815) 646-4511
+Toledo,,,Sumpter Township Library,408 Courthouse Square,62468,(217) 849-2072
+Tolono,http://www.tolonolibrary.org,,Tolono Public Library District,111 East Main Street,61880,(217) 485-5558
+Toluca,,,Toluca Public Library District,102 North Main Street,61369,(815) 452-2211
+Toulon,http://www.toulonpld.org,,Toulon Public Library District,306 West Jefferson Street,61483,(309) 286-5791
+Towanda,http://towandalibrary.org,,Towanda District Library,301 South Taylor Street,61776,(309) 728-2176
+Tremont,http://www.tremont.lib.il.us/library,,Tremont District Library,215 South Sampson Street,61568,(309) 925-5432
+Trenton,,,Trenton Public Library,118 East Indiana Street,62293,(618) 224-7662
+Trenton,,,Trenton Public Library,118 East Indiana Street,,(618) 224-7662
+Troy,http://www.troylibrary.org,,Tri-Township Public Library District,209 South Main Street,62294,(618) 667-2133
+Tuscola,http://www.tuscola.lib.il.us,,Tuscola Public Library,112 East Sale Street,61953,(217) 253-3812
+University Park,http://www.universityparkpubliclibrary.org,,University Park Public Library District,1100 Blackhawk Drive,60466,(708) 534-2580
+Urbana,http://urbanafreelibrary.org,http://host6.evanced.info/urbana/evanced/eventsxml.asp?ag=&et=&lib=0&nd=100,Urbana Free Library,210 West Green Street,61801,(217) 367-4057
+Utica,,,Utica Public Library District,po box 367,61373,(815) 667-4509
+Valmeyer,http://valmeyerpubliclibrary.weebly.com/,,Valmeyer Public Library District,300 South Cedar Bluff Drive,62295,(618) 935-2626
+Vandalia,http://www.epl.lib.il.us,,Evans Public Library District,215 South Fifth Street,62471,(618) 283-2824
+Venice,,,Venice Public Library,325 Broadway Avenue,62090,(618) 877-1330
+Vermilion,,,Potomac Public Library,110 East State Street,61865,(217) 987-6457
+Vermont,,,Vermont Public Library,po box 199,61484,(309) 784-6291
+Vernon Hills,http://www.vapld.info/,http://host5.evanced.info/vapld/evanced/eventsxml.asp?ag=&et=&lib=0&nd=100,Evergreen Interim Library,290 Evergreen Dr.,,(847) 362-2330
+Versailles,,,Versailles Branch Library,112 West 2nd Street,,(217) 225-3102
+Victoria,,,Victoria Public Library District,227 East Main Street,61485,(309) 879-2295
+Vienna,,,Vienna Carnegie Public Library,401 Poplar Street,62995,(618) 658-5051
+Villa Grove,,,Camargo Township District Library,14 North Main Street,61956,(217) 832-5211
+Villa Park,http://www.villapark.lib.il.us,,Villa Park Public Library,305 South Ardmore Avenue,60181,(630) 834-1164
+Viola,,,Viola Public Library District,1705 Fourteenth Street,61486,(309) 596-2620
+Virden,http://www.lcls.org,,Grand Prairie Of The West Public Library District,142 West Jackson Street,62690,(217) 965-3015
+Virginia,http://www.casscomm.com/~vmpl/,,Virginia Memorial Public Library,100 North Main Street,62691,(217) 452-3846
+Walnut,http://www.palsnet.info/members/building.asp?deliverycode=walg,,Walnut Public Library District,101 Heaton,61376,(815) 379-2159
+Warren,,,Warren Township Public Library,210 Burnett Avenue,61087,(815) 745-2076
+Warrensburg,http://barclay.lib.il.us,,Barclay Public Library District,220 South Main Street,62573,(217) 672-3621
+Warrenville,http://www.warrenville.com,,Warrenville Public Library District,28w751 Stafford Place,60555,(630) 393-1171
+Warsaw,http://www.warsawlib.org,,Warsaw Public Library,1025 Webster Street,62379,(217) 256-3417
+Washburn,,,Washburn Branch,102 West Magnolia,,(309) 248-7429
+Washington,,,Sunnyland Branch,1 Sunnyland Plaza,,(309) 745-3023
+Washington,http://www.washington.lib.il.us,,Washington District Library,380 North Wilmor Road,61571,(309) 444-2241
+Washington Park,,,Washington Park Public Library,5103 Bunkum Road 2,62204,(618) 271-5103
+Waterloo,http://www.waterloolibrary.org,,Morrison-Talbott Library,215 Park Street,62298,(618) 939-6232
+Waterman,http://waterman.lib.il.us,,Clinton Township Public Library,110 South Elm Street,60556,(815) 264-3339
+Watseka,http://www.watsekalibrary.org,,Watseka Public Library,201 South 4th Street,60970,(815) 432-4544
+Wauconda,http://www.wauclib.org,,Wauconda Area Public Library District,801 North Main Street,60084,(847) 526-6225
+Waukegan,http://www.waukeganpl.org,http://host7.evanced.info/waukegan/evanced/eventsxml.asp?ag=&et=&lib=0&nd=100,Waukegan Public Library,128 North County Street,60085,(847) 623-2041
+Waverly,http://waverly.lib.il.us,,Waverly Public Library,291 North Pearl Street,62692,(217) 435-2051
+Wayne City,,,Wayne City Public Library,103 East Mill Street,62895,(618) 895-2661
+Waynesville,http://waynesvilletownshiplibrary.org,,Waynesville Township Library,303 East Second Street,61778,(217) 949-5111
+Weldon,,,Weldon Public Library District,505 Maple Street,61882,(217) 736-2215
+Wenona,,,Bond Public Library,208 South Chestnut Street,61377,(815) 853-4665
+West Chicago,http://www.westchicago.lib.il.us,https://il.evanced.info/westchicago/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,West Chicago Public Library District,118 West Washington Street,60185,(630) 231-1552
+West Frankfort,http://www.westfrankfort.lib.il.us,,West Frankfort Public Library,402 East Poplar Street,62896,(618) 932-3313
+West Salem,,,West Salem Public Library,112 West South Street,62476,(618) 456-8970
+West Union,,,West Union District Library,209 West Union Street,62477,(217) 279-3556
+Westchester,http://www.westchesterpl.org,,Westchester Public Library,10700 Canterbury Street,60154,(708) 562-3573
+Western Springs,http://www.fordlibrary.org,https://il.evanced.info/ford/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Thomas Ford Memorial Library,800 Chestnut Street,60558,(708) 246-0520
+Westmont,http://www.westmontlibrary.org,http://il.evanced.info/westmont/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Westmont Public Library,428 North Cass Avenue,60559,(630) 969-5625
+Westville,http://westvillepubliclibrarydistrict.org,,Westville Public Library District,233 South State Street,61883,(217) 267-3170
+Wheaton,http://www.wheatonlibrary.org,http://66.99.47.8/evanced/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Wheaton Public Library,225 North Cross Street,60187,(630) 668-1374
+Wheeling,http://www.indiantrailslibrary.org,http://itpld-ts.indiantrailslibrary.org/evanced/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Indian Trails Public Library District,355 South Schoenbeck Road,60090,(847) 459-4100
+White Hall,http://whitehalltownshiplibrary.org,,White Hall Township Library,119 East Sherman Street,62092,(217) 374-6014
+Williamsfield,http://www.wpld.org/,,Williamsfield Public Library District,111 West Gale Street,61489,(309) 639-2630
+Williamsville,http://www.williamsvilleil.org,,Williamsville Public Library,141 West Main Street,62693,(217) 566-3520
+Willisville,,,Willisville Village Library,803 Broadway Street,62997,(618) 497-2422
+Wilmette,http://www.wilmettelibrary.info,http://il.evanced.info/wilmette/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Wilmette Public Library District,1242 Wilmette Avenue,60091,(847) 256-5025
+Wilmington,http://www.wilmingtonlibrary.org,,Wilmington Public Library District,201 South Kankakee Street,60481,(815) 476-2834
+Winchester,,,Winchester Public Library,215 North Main Street,62694,(217) 742-3150
+Windsor,,,Windsor Storm Memorial Public Library District,102 South Maple Street,61957,(217) 459-2498
+Winfield,http://www.winfield.lib.il.us,http://www.winfield.lib.il.us/evanced/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Winfield Public Library,,60190,(630) 653-7599
+Winnebago,http://www.winnebagopubliclibrary.org,,Winnebago Public Library District,210 North Elida Street,61088,(815) 335-7050
+Winnetka,http://www.wpld.alibrary.com,,Winnetka-Northfield Public Library District,768 Oak Street,60093,(847) 446-7220
+Witt,,,Witt Township Memorial Library,18 North Second Street,62094,(217) 594-7333
+Wolf Lake,,,Wolf Lake Branch Library,4720 State Rt. 3 North,,(618) 833-4923
+Wood Dale,http://www.wooddalelibrary.org,http://events.wooddalelibrary.org/evanced/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Wood Dale Public Library District,520 North Wood Dale Road,60191,(630) 766-6762
+Wood River,http://woodriverlibrary.org,,Wood River Public Library,326 East Ferguson Avenue,62095,(618) 254-4832
+Woodhull,http://www.woodhull.lib.il.us/library,,Clover Public Library District,440 North Division Street,61490,(309) 334-2680
+Woodridge,http://www.woodridgelibrary.org,http://woodridgelibrary.evanced.info/eventsxml.asp?ag=&et=&lib=0&nd=100,Woodridge Public Library,3 Plaza Drive,60517,(630) 964-7899
+Woodstock,http://www.woodstockpubliclibrary.org/,https://il.evanced.info/woodstock/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Woodstock Public Library,414 West Judd Street,60098,(815) 338-0542
+Worden,,,Worden Public Library District,111 East Wall Street,62097,(618) 459-7171
+Worth,http://www.worthlibrary.com,https://il.evanced.info/worth/lib/eventsxml.asp?ag=&et=&lib=0&nd=100,Worth Public Library District,6917 West 111th Street,60482,(708) 448-2855
+Wyanet,http://raymondasapplibrary.4t.com/index.html,,Raymond A. Sapp Memorial Township Library,103 East Main Street,61379,(815) 699-2342
+Wyoming,http://www.wyomingpubliclibrary.com/,,Wyoming Public Library District,119 North Seventh Street,61491,(309) 695-2241
+Yates City,http://server.elmnet.net/~salemlib/,,Salem Township Public Library District,115 West Main Street,61572,(309) 358-1678
+Yorkville,http://www.yorkville.lib.il.us,,Yorkville Public Library,902 Game Farm Road,60560,(630) 553-4354
+Zeigler,http://www.zeigleril.com/pages/library.htm,,Zeigler Public Library,102 East Maryland Street,62999,(618) 596-2041
+Zion,http://www.zblibrary.org,http://host4.evanced.info/zblibrary/evanced/eventsxml.asp?ag=&et=&lib=0&nd=100,Zion-Benton Public Library District,2400 Gabriel Avenue,60099,(847) 872-4680
